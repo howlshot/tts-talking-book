@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE diskcheck [
+<!ELEMENT diskcheck (book, file+)>
+<!ATTLIST diskcheck version CDATA #FIXED "1.0">
+<!ELEMENT book (#PCDATA)>
+<!ELEMENT file (filename, checksum)>
+<!ATTLIST file type CDATA #IMPLIED content CDATA #IMPLIED>
+<!ELEMENT filename (#PCDATA)>
+<!ELEMENT checksum (#PCDATA)>
+<!ATTLIST checksum type CDATA #REQUIRED>
+]>
+<diskcheck version="1.0">
+  <book>sample-tts000001</book>
+  <file><filename>dtbsmil-2005-1.dtd</filename><checksum type="MD5">5f2ffaf175af084a097f3bf590b57b23</checksum></file>
+  <file><filename>ncx-2005-1.dtd</filename><checksum type="MD5">021b37d93a15d0e9adc5edcdd0a1c4ff</checksum></file>
+  <file><filename>oeb12.ent</filename><checksum type="MD5">1f3e7a4a4954c5b0568f43826809786b</checksum></file>
+  <file><filename>oebpkg12.dtd</filename><checksum type="MD5">a9303befafcd5d312238806930a8a7ad</checksum></file>
+  <file><filename>tts000001-0001.mp3</filename><checksum type="MD5">b65f82fc905cb4183cc800a6d828fd86</checksum></file>
+  <file><filename>tts000001-0002.mp3</filename><checksum type="MD5">3b343b0de78a255a901e55e9ce8c9d96</checksum></file>
+  <file><filename>tts000001-0003.mp3</filename><checksum type="MD5">e25c2f76366d8ec22e7d7c10b9b53e30</checksum></file>
+  <file><filename>tts000001-0004.mp3</filename><checksum type="MD5">6132dcc0d6a4f640b3590d1847697b11</checksum></file>
+  <file><filename>tts000001-0005.mp3</filename><checksum type="MD5">eedbb5a6edec9d931c60b10774e29ba2</checksum></file>
+  <file><filename>tts000001-0006.mp3</filename><checksum type="MD5">17fdf695fbc64f85d8fd81cfce463fc5</checksum></file>
+  <file><filename>tts000001-0007.mp3</filename><checksum type="MD5">3fa338611a06155249847210de5367e8</checksum></file>
+  <file><filename>tts000001-0008.mp3</filename><checksum type="MD5">8fbdf409c6ac4c7ed0d172d461078ed9</checksum></file>
+  <file><filename>tts000001.ncx</filename><checksum type="MD5">64be2ea14d8fed29e0b6ece0bfa4666d</checksum></file>
+  <file><filename>tts000001.opf</filename><checksum type="MD5">ca0ec4ce12a2e5c997f0e5eb6fedf7b8</checksum></file>
+  <file><filename>tts000001.smil</filename><checksum type="MD5">8e28c3e3623641bc15f988275762ca69</checksum></file>
+  <file><filename>tts000001hdgs.mp3</filename><checksum type="MD5">4260014ab3e79b5ece6e289138c2ed31</checksum></file>
+</diskcheck>

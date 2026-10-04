@@ -1,0 +1,2710 @@
+{
+  "pid": "tts000001",
+  "title": "The Constitution of the United States of America, 1787",
+  "pars": [
+    {
+      "id": "par1",
+      "audio": "tts000001-0001.mp3",
+      "speech": [
+        0.6,
+        11.08
+      ],
+      "clip": [
+        0.5,
+        11.28
+      ],
+      "cls": "title/author",
+      "said": "The Constitution of the United States of America, 1787. by the Constitutional Convention of 1787. Read by a synthetic voice."
+    },
+    {
+      "id": "par2",
+      "audio": "tts000001-0001.mp3",
+      "speech": [
+        12.58,
+        13.2
+      ],
+      "clip": [
+        12.48,
+        13.4
+      ],
+      "cls": "prelimitem",
+      "said": "Preamble."
+    },
+    {
+      "id": "par3",
+      "audio": "tts000001-0001.mp3",
+      "speech": [
+        14.35,
+        34.92
+      ],
+      "clip": [
+        14.25,
+        35.12
+      ],
+      "cls": null,
+      "said": "We the people of the United States, in Order to form a more perfect Union, establish Justice, insure domestic Tranquility, provide for the common defence, promote the general Welfare, and secure the Blessings of Liberty to ourselves and our Posterity, do ordain and establish this Constitution for the United States of America."
+    },
+    {
+      "id": "par4",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        0.6,
+        1.37
+      ],
+      "clip": [
+        0.5,
+        1.57
+      ],
+      "cls": "chapter",
+      "said": "Article 1."
+    },
+    {
+      "id": "par5",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        2.87,
+        3.64
+      ],
+      "clip": [
+        2.77,
+        3.84
+      ],
+      "cls": "section",
+      "said": "Section 1."
+    },
+    {
+      "id": "par6",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        4.79,
+        13.92
+      ],
+      "clip": [
+        4.69,
+        14.12
+      ],
+      "cls": null,
+      "said": "All legislative Powers herein granted shall be vested in a Congress of the United States, which shall consist of a Senate and House of Representatives."
+    },
+    {
+      "id": "par7",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        15.27,
+        16.07
+      ],
+      "clip": [
+        15.17,
+        16.27
+      ],
+      "cls": "section",
+      "said": "Section 2."
+    },
+    {
+      "id": "par8",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        17.22,
+        31.83
+      ],
+      "clip": [
+        17.12,
+        32.03
+      ],
+      "cls": null,
+      "said": "The House of Representatives shall be composed of Members chosen every second Year by the People of the several States, and the electors in each State shall have the qualifications requisite for electors of the most numerous branch of the State legislature."
+    },
+    {
+      "id": "par9",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        32.83,
+        47.0
+      ],
+      "clip": [
+        32.73,
+        47.2
+      ],
+      "cls": null,
+      "said": "No Person shall be a Representative who shall not have attained to the Age of twenty five Years, and been seven Years a citizen of the United States, and who shall not, when elected, be an Inhabitant of that State in which he shall be chosen."
+    },
+    {
+      "id": "par10",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        48.0,
+        68.78
+      ],
+      "clip": [
+        47.9,
+        68.98
+      ],
+      "cls": null,
+      "said": "Representatives and direct Taxes shall be apportioned among the several States which may be included within this Union, according to their respective Numbers, which shall be determined by adding to the whole number of free Persons, including those bound to Service for a Term of Years, and excluding Indians not taxed, three fifths of all other Persons."
+    },
+    {
+      "id": "par11",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        69.43,
+        81.64
+      ],
+      "clip": [
+        69.33,
+        81.84
+      ],
+      "cls": null,
+      "said": "The actual Enumeration shall be made within three Years after the first Meeting of the Congress of the United States, and within every subsequent Term of ten Years, in such Manner as they shall by law Direct."
+    },
+    {
+      "id": "par12",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        82.29,
+        109.33
+      ],
+      "clip": [
+        82.19,
+        109.53
+      ],
+      "cls": null,
+      "said": "The number of Representatives shall not exceed one for every thirty Thousand, but each State shall have at least one Representative; and until such enumeration shall be made, the State of New Hampshire shall be entitled to choose three, Massachusetts eight, Rhode Island and Providence Plantations one, Connecticut five, New York six, New Jersey four, Pennsylvania eight, Delaware one, Maryland six, Virginia ten, North Carolina five, South Carolina five, and Georgia three."
+    },
+    {
+      "id": "par13",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        110.33,
+        118.7
+      ],
+      "clip": [
+        110.23,
+        118.9
+      ],
+      "cls": null,
+      "said": "When vacancies happen in the Representation from any State, the Executive Authority thereof shall issue Writs of Election to fill such Vacancies."
+    },
+    {
+      "id": "par14",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        119.7,
+        126.43
+      ],
+      "clip": [
+        119.6,
+        126.63
+      ],
+      "cls": null,
+      "said": "The House of Representatives shall choose their Speaker and other Officers; and shall have the sole Power of Impeachment."
+    },
+    {
+      "id": "par15",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        127.78,
+        128.6
+      ],
+      "clip": [
+        127.68,
+        128.8
+      ],
+      "cls": "section",
+      "said": "Section 3."
+    },
+    {
+      "id": "par16",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        129.75,
+        139.79
+      ],
+      "clip": [
+        129.65,
+        139.99
+      ],
+      "cls": null,
+      "said": "The Senate of the United States shall be composed of two Senators from each State, chosen by the legislature thereof, for six Years; and each Senator shall have one Vote."
+    },
+    {
+      "id": "par17",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        140.79,
+        148.61
+      ],
+      "clip": [
+        140.69,
+        148.81
+      ],
+      "cls": null,
+      "said": "Immediately after they shall be assembled in Consequence of the first Election, they shall be divided as equally as may be into three Classes."
+    },
+    {
+      "id": "par18",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        149.26,
+        179.69
+      ],
+      "clip": [
+        149.16,
+        179.89
+      ],
+      "cls": null,
+      "said": "The Seats of the Senators of the first Class shall be vacated at the expiration of the second Year, of the second Class at the expiration of the fourth Year, and of the third Class at the expiration of the sixth Year, so that one third may be chosen every second Year; and if vacancies happen by Resignation, or otherwise, during the recess of the Legislature of any State, the Executive thereof may make temporary Appointments until the next meeting of the Legislature, which shall then fill such Vacancies."
+    },
+    {
+      "id": "par19",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        180.69,
+        194.08
+      ],
+      "clip": [
+        180.59,
+        194.28
+      ],
+      "cls": null,
+      "said": "No person shall be a Senator who shall not have attained to the Age of thirty Years, and been nine Years a Citizen of the United States, and who shall not, when elected, be an Inhabitant of that State for which he shall be chosen."
+    },
+    {
+      "id": "par20",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        195.08,
+        202.02
+      ],
+      "clip": [
+        194.98,
+        202.22
+      ],
+      "cls": null,
+      "said": "The Vice-President of the United States shall be President of the Senate, but shall have no Vote, unless they be equally divided."
+    },
+    {
+      "id": "par21",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        203.02,
+        214.32
+      ],
+      "clip": [
+        202.92,
+        214.52
+      ],
+      "cls": null,
+      "said": "The Senate shall choose their other Officers, and also a President pro tempore, in the Absence of the Vice-President, or when he shall exercise the Office of President of the United States."
+    },
+    {
+      "id": "par22",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        215.32,
+        218.32
+      ],
+      "clip": [
+        215.22,
+        218.52
+      ],
+      "cls": null,
+      "said": "The Senate shall have the sole Power to try all Impeachments."
+    },
+    {
+      "id": "par23",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        218.97,
+        222.45
+      ],
+      "clip": [
+        218.87,
+        222.65
+      ],
+      "cls": null,
+      "said": "When sitting for that Purpose, they shall be on Oath or Affirmation."
+    },
+    {
+      "id": "par24",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        223.1,
+        227.29
+      ],
+      "clip": [
+        223.0,
+        227.49
+      ],
+      "cls": null,
+      "said": "When the President of the United States is tried, the Chief Justice shall preside:"
+    },
+    {
+      "id": "par25",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        227.94,
+        233.03
+      ],
+      "clip": [
+        227.84,
+        233.23
+      ],
+      "cls": null,
+      "said": "And no Person shall be convicted without the Concurrence of two thirds of the Members present."
+    },
+    {
+      "id": "par26",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        234.03,
+        254.3
+      ],
+      "clip": [
+        233.93,
+        254.5
+      ],
+      "cls": null,
+      "said": "Judgment in cases of Impeachment shall not extend further than to removal from Office, and disqualification to hold and enjoy any Office of honor, Trust or Profit under the United States: but the Party convicted shall nevertheless be liable and subject to Indictment, Trial, Judgment and Punishment, according to Law."
+    },
+    {
+      "id": "par27",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        255.65,
+        256.45
+      ],
+      "clip": [
+        255.55,
+        256.65
+      ],
+      "cls": "section",
+      "said": "Section 4."
+    },
+    {
+      "id": "par28",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        257.6,
+        274.24
+      ],
+      "clip": [
+        257.5,
+        274.44
+      ],
+      "cls": null,
+      "said": "The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators."
+    },
+    {
+      "id": "par29",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        275.24,
+        284.26
+      ],
+      "clip": [
+        275.14,
+        284.46
+      ],
+      "cls": null,
+      "said": "The Congress shall assemble at least once in every Year, and such Meeting shall be on the first Monday in December, unless they shall by law appoint a different Day."
+    },
+    {
+      "id": "par30",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        285.61,
+        286.4
+      ],
+      "clip": [
+        285.51,
+        286.6
+      ],
+      "cls": "section",
+      "said": "Section 5."
+    },
+    {
+      "id": "par31",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        287.55,
+        308.36
+      ],
+      "clip": [
+        287.45,
+        308.56
+      ],
+      "cls": null,
+      "said": "Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide."
+    },
+    {
+      "id": "par32",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        309.36,
+        318.76
+      ],
+      "clip": [
+        309.26,
+        318.96
+      ],
+      "cls": null,
+      "said": "Each house may determine the Rules of its Proceedings, punish its Members for disorderly Behavior, and, with the Concurrence of two-thirds, expel a Member."
+    },
+    {
+      "id": "par33",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        319.76,
+        338.0
+      ],
+      "clip": [
+        319.66,
+        338.2
+      ],
+      "cls": null,
+      "said": "Each house shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal."
+    },
+    {
+      "id": "par34",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        339.0,
+        349.41
+      ],
+      "clip": [
+        338.9,
+        349.61
+      ],
+      "cls": null,
+      "said": "Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting."
+    },
+    {
+      "id": "par35",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        350.76,
+        351.61
+      ],
+      "clip": [
+        350.66,
+        351.81
+      ],
+      "cls": "section",
+      "said": "Section 6."
+    },
+    {
+      "id": "par36",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        352.76,
+        362.08
+      ],
+      "clip": [
+        352.66,
+        362.28
+      ],
+      "cls": null,
+      "said": "The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States."
+    },
+    {
+      "id": "par37",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        362.73,
+        380.6
+      ],
+      "clip": [
+        362.63,
+        380.8
+      ],
+      "cls": null,
+      "said": "They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place."
+    },
+    {
+      "id": "par38",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        381.6,
+        403.66
+      ],
+      "clip": [
+        381.5,
+        403.86
+      ],
+      "cls": null,
+      "said": "No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the authority of the United States, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office."
+    },
+    {
+      "id": "par39",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        405.01,
+        405.88
+      ],
+      "clip": [
+        404.91,
+        406.08
+      ],
+      "cls": "section",
+      "said": "Section 7."
+    },
+    {
+      "id": "par40",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        407.03,
+        415.99
+      ],
+      "clip": [
+        406.93,
+        416.19
+      ],
+      "cls": null,
+      "said": "All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills."
+    },
+    {
+      "id": "par41",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        416.99,
+        425.92
+      ],
+      "clip": [
+        416.89,
+        426.12
+      ],
+      "cls": null,
+      "said": "Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States;"
+    },
+    {
+      "id": "par42",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        426.57,
+        438.74
+      ],
+      "clip": [
+        426.47,
+        438.94
+      ],
+      "cls": null,
+      "said": "If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it."
+    },
+    {
+      "id": "par43",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        439.39,
+        454.42
+      ],
+      "clip": [
+        439.29,
+        454.62
+      ],
+      "cls": null,
+      "said": "If after such Reconsideration two thirds of that house shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a law."
+    },
+    {
+      "id": "par44",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        455.07,
+        467.3
+      ],
+      "clip": [
+        454.97,
+        467.5
+      ],
+      "cls": null,
+      "said": "But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively."
+    },
+    {
+      "id": "par45",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        467.95,
+        485.12
+      ],
+      "clip": [
+        467.85,
+        485.32
+      ],
+      "cls": null,
+      "said": "If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which case it shall not be a Law."
+    },
+    {
+      "id": "par46",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        486.12,
+        512.29
+      ],
+      "clip": [
+        486.02,
+        512.49
+      ],
+      "cls": null,
+      "said": "Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill."
+    },
+    {
+      "id": "par47",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        513.64,
+        514.44
+      ],
+      "clip": [
+        513.54,
+        514.64
+      ],
+      "cls": "section",
+      "said": "Section 8."
+    },
+    {
+      "id": "par48",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        515.59,
+        532.49
+      ],
+      "clip": [
+        515.49,
+        532.69
+      ],
+      "cls": null,
+      "said": "The Congress shall have Power to lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;"
+    },
+    {
+      "id": "par49",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        533.49,
+        536.22
+      ],
+      "clip": [
+        533.39,
+        536.42
+      ],
+      "cls": null,
+      "said": "To borrow Money on the credit of the United States;"
+    },
+    {
+      "id": "par50",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        537.22,
+        542.58
+      ],
+      "clip": [
+        537.12,
+        542.78
+      ],
+      "cls": null,
+      "said": "To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;"
+    },
+    {
+      "id": "par51",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        543.58,
+        551.27
+      ],
+      "clip": [
+        543.48,
+        551.47
+      ],
+      "cls": null,
+      "said": "To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;"
+    },
+    {
+      "id": "par52",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        552.27,
+        558.37
+      ],
+      "clip": [
+        552.17,
+        558.57
+      ],
+      "cls": null,
+      "said": "To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;"
+    },
+    {
+      "id": "par53",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        559.37,
+        564.88
+      ],
+      "clip": [
+        559.27,
+        565.08
+      ],
+      "cls": null,
+      "said": "To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;"
+    },
+    {
+      "id": "par54",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        565.88,
+        568.48
+      ],
+      "clip": [
+        565.78,
+        568.68
+      ],
+      "cls": null,
+      "said": "To establish Post Offices and Post Roads;"
+    },
+    {
+      "id": "par55",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        569.48,
+        580.13
+      ],
+      "clip": [
+        569.38,
+        580.33
+      ],
+      "cls": null,
+      "said": "To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;"
+    },
+    {
+      "id": "par56",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        581.13,
+        583.95
+      ],
+      "clip": [
+        581.03,
+        584.15
+      ],
+      "cls": null,
+      "said": "To constitute Tribunals inferior to the supreme Court;"
+    },
+    {
+      "id": "par57",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        584.95,
+        591.5
+      ],
+      "clip": [
+        584.85,
+        591.7
+      ],
+      "cls": null,
+      "said": "To define and punish Piracies and Felonies committed on the high Seas, and Offenses against the Law of Nations;"
+    },
+    {
+      "id": "par58",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        592.5,
+        598.97
+      ],
+      "clip": [
+        592.4,
+        599.17
+      ],
+      "cls": null,
+      "said": "To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;"
+    },
+    {
+      "id": "par59",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        599.97,
+        606.68
+      ],
+      "clip": [
+        599.87,
+        606.88
+      ],
+      "cls": null,
+      "said": "To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer term than two Years;"
+    },
+    {
+      "id": "par60",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        607.68,
+        609.44
+      ],
+      "clip": [
+        607.58,
+        609.64
+      ],
+      "cls": null,
+      "said": "To provide and maintain a Navy;"
+    },
+    {
+      "id": "par61",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        610.44,
+        614.93
+      ],
+      "clip": [
+        610.34,
+        615.13
+      ],
+      "cls": null,
+      "said": "To make Rules for the Government and Regulation of the land and naval Forces;"
+    },
+    {
+      "id": "par62",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        615.93,
+        622.98
+      ],
+      "clip": [
+        615.83,
+        623.18
+      ],
+      "cls": null,
+      "said": "To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;"
+    },
+    {
+      "id": "par63",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        623.98,
+        642.89
+      ],
+      "clip": [
+        623.88,
+        643.09
+      ],
+      "cls": null,
+      "said": "To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the militia according to the discipline prescribed by Congress;"
+    },
+    {
+      "id": "par64",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        643.89,
+        671.38
+      ],
+      "clip": [
+        643.79,
+        671.58
+      ],
+      "cls": null,
+      "said": "To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, Dockyards, and other needful Buildings;, And"
+    },
+    {
+      "id": "par65",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        672.38,
+        686.64
+      ],
+      "clip": [
+        672.28,
+        686.84
+      ],
+      "cls": null,
+      "said": "To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof."
+    },
+    {
+      "id": "par66",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        687.99,
+        688.82
+      ],
+      "clip": [
+        687.89,
+        689.02
+      ],
+      "cls": "section",
+      "said": "Section 9."
+    },
+    {
+      "id": "par67",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        689.97,
+        708.11
+      ],
+      "clip": [
+        689.87,
+        708.31
+      ],
+      "cls": null,
+      "said": "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or Duty may be imposed on such Importation, not exceeding ten dollars for each Person."
+    },
+    {
+      "id": "par68",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        709.11,
+        718.1
+      ],
+      "clip": [
+        709.01,
+        718.3
+      ],
+      "cls": null,
+      "said": "The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it."
+    },
+    {
+      "id": "par69",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        719.1,
+        722.58
+      ],
+      "clip": [
+        719.0,
+        722.78
+      ],
+      "cls": null,
+      "said": "No Bill of Attainder or ex post facto Law shall be passed."
+    },
+    {
+      "id": "par70",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        723.58,
+        732.81
+      ],
+      "clip": [
+        723.48,
+        733.01
+      ],
+      "cls": null,
+      "said": "No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken."
+    },
+    {
+      "id": "par71",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        733.81,
+        737.81
+      ],
+      "clip": [
+        733.71,
+        738.01
+      ],
+      "cls": null,
+      "said": "No Tax or Duty shall be laid on Articles exported from any State."
+    },
+    {
+      "id": "par72",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        738.81,
+        752.52
+      ],
+      "clip": [
+        738.71,
+        752.72
+      ],
+      "cls": null,
+      "said": "No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another."
+    },
+    {
+      "id": "par73",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        753.52,
+        766.43
+      ],
+      "clip": [
+        753.42,
+        766.63
+      ],
+      "cls": null,
+      "said": "No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time."
+    },
+    {
+      "id": "par74",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        767.43,
+        785.18
+      ],
+      "clip": [
+        767.33,
+        785.38
+      ],
+      "cls": null,
+      "said": "No Title of Nobility shall be granted by the United States; and no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State."
+    },
+    {
+      "id": "par75",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        786.53,
+        787.34
+      ],
+      "clip": [
+        786.43,
+        787.54
+      ],
+      "cls": "section",
+      "said": "Section 10."
+    },
+    {
+      "id": "par76",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        788.49,
+        810.28
+      ],
+      "clip": [
+        788.39,
+        810.48
+      ],
+      "cls": null,
+      "said": "No State shall enter into any Treaty, Alliance, or Confederation; grant Letters of Marque and Reprisal; coin Money; emit Bills of Credit; make any Thing but gold and silver Coin a Tender in Payment of Debts; pass any Bill of Attainder, ex post facto Law, or Law impairing the Obligation of Contracts, or grant any Title of Nobility."
+    },
+    {
+      "id": "par77",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        811.28,
+        836.46
+      ],
+      "clip": [
+        811.18,
+        836.66
+      ],
+      "cls": null,
+      "said": "No State shall, without the Consent of the Congress, lay any Imposts or Duties on Imports or Exports, except what may be absolutely necessary for executing it's inspection Laws: and the net Produce of all Duties and Imposts, laid by any State on Imports or Exports, shall be for the Use of the Treasury of the United States; and all such Laws shall be subject to the Revision and Controul of the Congress."
+    },
+    {
+      "id": "par78",
+      "audio": "tts000001-0002.mp3",
+      "speech": [
+        837.46,
+        856.08
+      ],
+      "clip": [
+        837.36,
+        856.28
+      ],
+      "cls": null,
+      "said": "No State shall, without the Consent of Congress, lay any Duty of Tonnage, keep Troops, or Ships of War in time of Peace, enter into any Agreement or Compact with another State, or with a foreign Power, or engage in War, unless actually invaded, or in such imminent Danger as will not admit of delay."
+    },
+    {
+      "id": "par79",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        0.6,
+        1.38
+      ],
+      "clip": [
+        0.5,
+        1.58
+      ],
+      "cls": "chapter",
+      "said": "Article 2."
+    },
+    {
+      "id": "par80",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        2.88,
+        3.65
+      ],
+      "clip": [
+        2.78,
+        3.85
+      ],
+      "cls": "section",
+      "said": "Section 1."
+    },
+    {
+      "id": "par81",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        4.8,
+        9.71
+      ],
+      "clip": [
+        4.7,
+        9.91
+      ],
+      "cls": null,
+      "said": "The executive Power shall be vested in a President of the United States of America."
+    },
+    {
+      "id": "par82",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        10.36,
+        18.64
+      ],
+      "clip": [
+        10.26,
+        18.84
+      ],
+      "cls": null,
+      "said": "He shall hold his Office during the Term of four Years, and, together with the Vice President chosen for the same Term, be elected, as follows:"
+    },
+    {
+      "id": "par83",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        19.64,
+        40.37
+      ],
+      "clip": [
+        19.54,
+        40.57
+      ],
+      "cls": null,
+      "said": "Each State shall appoint, in such Manner as the Legislature thereof may direct, a Number of Electors, equal to the whole Number of Senators and Representatives to which the State may be entitled in the Congress: but no Senator or Representative, or Person holding an Office of Trust or Profit under the United States, shall be appointed an Elector."
+    },
+    {
+      "id": "par84",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        41.37,
+        50.8
+      ],
+      "clip": [
+        41.27,
+        51.0
+      ],
+      "cls": null,
+      "said": "The Electors shall meet in their respective States, and vote by Ballot for two Persons, of whom one at least shall not be an Inhabitant of the same State with themselves."
+    },
+    {
+      "id": "par85",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        51.45,
+        65.5
+      ],
+      "clip": [
+        51.35,
+        65.7
+      ],
+      "cls": null,
+      "said": "And they shall make a List of all the Persons voted for, and of the Number of Votes for each; which List they shall sign and certify, and transmit sealed to the Seat of the Government of the United States, directed to the President of the Senate."
+    },
+    {
+      "id": "par86",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        66.15,
+        74.88
+      ],
+      "clip": [
+        66.05,
+        75.08
+      ],
+      "cls": null,
+      "said": "The President of the Senate shall, in the Presence of the Senate and House of Representatives, open all the Certificates, and the Votes shall then be counted."
+    },
+    {
+      "id": "par87",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        75.53,
+        100.81
+      ],
+      "clip": [
+        75.43,
+        101.01
+      ],
+      "cls": null,
+      "said": "The Person having the greatest Number of Votes shall be the President, if such Number be a Majority of the whole Number of Electors appointed; and if there be more than one who have such Majority, and have an equal Number of votes, then the House of Representatives shall immediately choose by Ballot one of them for President; and if no Person have a Majority, then from the five highest on the List the said House shall in like Manner choose the President."
+    },
+    {
+      "id": "par88",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        101.46,
+        117.61
+      ],
+      "clip": [
+        101.36,
+        117.81
+      ],
+      "cls": null,
+      "said": "But in chusing the President, the Votes shall be taken by States, the Representation from each State having one Vote; a Quorum for this Purpose shall consist of a Member or Members from two thirds of the States, and a Majority of all the States shall be necessary to a Choice."
+    },
+    {
+      "id": "par89",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        118.26,
+        126.12
+      ],
+      "clip": [
+        118.16,
+        126.32
+      ],
+      "cls": null,
+      "said": "In every Case, after the Choice of the President, the Person having the greatest Number of Votes of the Electors shall be the Vice President."
+    },
+    {
+      "id": "par90",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        126.77,
+        133.09
+      ],
+      "clip": [
+        126.67,
+        133.29
+      ],
+      "cls": null,
+      "said": "But if there should remain two or more who have equal Votes, the Senate shall choose from them by Ballot the Vice President."
+    },
+    {
+      "id": "par91",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        134.09,
+        143.09
+      ],
+      "clip": [
+        133.99,
+        143.29
+      ],
+      "cls": null,
+      "said": "The Congress may determine the Time of chusing the Electors, and the Day on which they shall give their Votes; which Day shall be the same throughout the United States."
+    },
+    {
+      "id": "par92",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        144.09,
+        165.22
+      ],
+      "clip": [
+        143.99,
+        165.42
+      ],
+      "cls": null,
+      "said": "No Person except a natural born Citizen, or a Citizen of the United States, at the time of the Adoption of this Constitution, shall be eligible to the Office of President; neither shall any Person be eligible to that Office who shall not have attained to the Age of thirty five Years, and been fourteen Years a Resident within the United States."
+    },
+    {
+      "id": "par93",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        166.22,
+        194.93
+      ],
+      "clip": [
+        166.12,
+        195.13
+      ],
+      "cls": null,
+      "said": "In Case of the Removal of the President from Office, or of his Death, Resignation, or Inability to discharge the Powers and Duties of the said Office, the Same shall devolve on the Vice President, and the Congress may by Law provide for the Case of Removal, Death, Resignation or Inability, both of the President and Vice President, declaring what Officer shall then act as President, and such Officer shall act accordingly, until the Disability be removed, or a President shall be elected."
+    },
+    {
+      "id": "par94",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        195.93,
+        212.66
+      ],
+      "clip": [
+        195.83,
+        212.86
+      ],
+      "cls": null,
+      "said": "The President shall, at stated Times, receive for his Services, a Compensation, which shall neither be encreased nor diminished during the Period for which he shall have been elected, and he shall not receive within that Period any other Emolument from the United States, or any of them."
+    },
+    {
+      "id": "par95",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        213.66,
+        232.56
+      ],
+      "clip": [
+        213.56,
+        232.76
+      ],
+      "cls": null,
+      "said": "Before he enter on the Execution of his Office, he shall take the following Oath or Affirmation:, \"I do solemnly swear (or affirm) that I will faithfully execute the Office of President of the United States, and will to the best of my Ability, preserve, protect and defend the Constitution of the United States.\""
+    },
+    {
+      "id": "par96",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        233.91,
+        234.71
+      ],
+      "clip": [
+        233.81,
+        234.91
+      ],
+      "cls": "section",
+      "said": "Section 2."
+    },
+    {
+      "id": "par97",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        235.86,
+        264.16
+      ],
+      "clip": [
+        235.76,
+        264.36
+      ],
+      "cls": null,
+      "said": "The President shall be Commander in Chief of the Army and Navy of the United States, and of the Militia of the several States, when called into the actual Service of the United States; he may require the Opinion, in writing, of the principal Officer in each of the executive Departments, upon any Subject relating to the Duties of their respective Offices, and he shall have Power to grant Reprieves and Pardons for Offenses against the United States, except in Cases of impeachment."
+    },
+    {
+      "id": "par98",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        265.16,
+        302.45
+      ],
+      "clip": [
+        265.06,
+        302.65
+      ],
+      "cls": null,
+      "said": "He shall have Power, by and with the Advice and Consent of the Senate, to make Treaties, provided two thirds of the Senators present concur; and he shall nominate, and by and with the Advice and Consent of the Senate, shall appoint Ambassadors, other public Ministers and Consuls, Judges of the supreme Court, and all other Officers of the United States, whose Appointments are not herein otherwise provided for, and which shall be established by Law: but the Congress may by Law vest the Appointment of such inferior Officers, as they think proper, in the President alone, in the Courts of Law, or in the Heads of Departments."
+    },
+    {
+      "id": "par99",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        303.45,
+        313.25
+      ],
+      "clip": [
+        303.35,
+        313.45
+      ],
+      "cls": null,
+      "said": "The President shall have Power to fill up all Vacancies that may happen during the Recess of the Senate, by granting Commissions which shall expire at the End of their next session."
+    },
+    {
+      "id": "par100",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        314.6,
+        315.42
+      ],
+      "clip": [
+        314.5,
+        315.62
+      ],
+      "cls": "section",
+      "said": "Section 3."
+    },
+    {
+      "id": "par101",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        316.57,
+        350.2
+      ],
+      "clip": [
+        316.47,
+        350.4
+      ],
+      "cls": null,
+      "said": "He shall from time to time give to the Congress Information of the State of the Union, and recommend to their Consideration such Measures as he shall judge necessary and expedient; he may, on extraordinary Occasions, convene both Houses, or either of them, and in Case of Disagreement between them, with Respect to the Time of Adjournment, he may adjourn them to such Time as he shall think proper; he shall receive Ambassadors and other public Ministers; he shall take Care that the Laws be faithfully executed, and shall Commission all the Officers of the United States."
+    },
+    {
+      "id": "par102",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        351.55,
+        352.36
+      ],
+      "clip": [
+        351.45,
+        352.56
+      ],
+      "cls": "section",
+      "said": "Section 4."
+    },
+    {
+      "id": "par103",
+      "audio": "tts000001-0003.mp3",
+      "speech": [
+        353.51,
+        365.91
+      ],
+      "clip": [
+        353.41,
+        366.11
+      ],
+      "cls": null,
+      "said": "The President, Vice President and all civil Officers of the United States, shall be removed from Office on Impeachment for, and Conviction of, Treason, Bribery, or other high Crimes and Misdemeanors."
+    },
+    {
+      "id": "par104",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        0.6,
+        1.43
+      ],
+      "clip": [
+        0.5,
+        1.63
+      ],
+      "cls": "chapter",
+      "said": "Article 3."
+    },
+    {
+      "id": "par105",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        2.93,
+        3.7
+      ],
+      "clip": [
+        2.83,
+        3.9
+      ],
+      "cls": "section",
+      "said": "Section 1."
+    },
+    {
+      "id": "par106",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        4.85,
+        15.36
+      ],
+      "clip": [
+        4.75,
+        15.56
+      ],
+      "cls": null,
+      "said": "The judicial Power of the United States, shall be vested in one supreme Court, and in such inferior Courts as the Congress may from time to time ordain and establish."
+    },
+    {
+      "id": "par107",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        16.01,
+        30.72
+      ],
+      "clip": [
+        15.91,
+        30.92
+      ],
+      "cls": null,
+      "said": "The Judges, both of the supreme and inferior Courts, shall hold their Offices during good behavior, and shall, at stated Times, receive for their Services, a Compensation, which shall not be diminished during their Continuance in Office."
+    },
+    {
+      "id": "par108",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        32.07,
+        32.87
+      ],
+      "clip": [
+        31.97,
+        33.07
+      ],
+      "cls": "section",
+      "said": "Section 2."
+    },
+    {
+      "id": "par109",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        34.02,
+        76.71
+      ],
+      "clip": [
+        33.92,
+        76.91
+      ],
+      "cls": null,
+      "said": "The judicial Power shall extend to all Cases, in Law and Equity, arising under this Constitution, the Laws of the United States, and Treaties made, or which shall be made, under their Authority;, to all Cases affecting Ambassadors, other public Ministers and Consuls;, to all Cases of admiralty and maritime Jurisdiction;, to Controversies to which the United States shall be a Party;, to Controversies between two or more States;, between a State and Citizens of another State;, between Citizens of different States; , between Citizens of the same State claiming Lands under Grants of different States, and between a State, or the Citizens thereof, and foreign States, Citizens or Subjects."
+    },
+    {
+      "id": "par110",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        77.71,
+        87.76
+      ],
+      "clip": [
+        77.61,
+        87.96
+      ],
+      "cls": null,
+      "said": "In all cases affecting Ambassadors, other public Ministers and Consuls, and those in which a State shall be Party, the supreme Court shall have original Jurisdiction."
+    },
+    {
+      "id": "par111",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        88.41,
+        100.08
+      ],
+      "clip": [
+        88.31,
+        100.28
+      ],
+      "cls": null,
+      "said": "In all the other Cases before mentioned, the supreme Court shall have appellate Jurisdiction, both as to Law and Fact, with such Exceptions, and under such Regulations as the Congress shall make."
+    },
+    {
+      "id": "par112",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        101.08,
+        118.37
+      ],
+      "clip": [
+        100.98,
+        118.57
+      ],
+      "cls": null,
+      "said": "The Trial of all Crimes, except in Cases of Impeachment, shall be by Jury; and such Trial shall be held in the State where the said Crimes shall have been committed; but when not committed within any State, the Trial shall be at such Place or Places as the Congress may by Law have directed."
+    },
+    {
+      "id": "par113",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        119.72,
+        120.54
+      ],
+      "clip": [
+        119.62,
+        120.74
+      ],
+      "cls": "section",
+      "said": "Section 3."
+    },
+    {
+      "id": "par114",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        121.69,
+        130.5
+      ],
+      "clip": [
+        121.59,
+        130.7
+      ],
+      "cls": null,
+      "said": "Treason against the United States, shall consist only in levying War against them, or in adhering to their Enemies, giving them Aid and Comfort."
+    },
+    {
+      "id": "par115",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        131.15,
+        140.0
+      ],
+      "clip": [
+        131.05,
+        140.2
+      ],
+      "cls": null,
+      "said": "No Person shall be convicted of Treason unless on the Testimony of two Witnesses to the same overt Act, or on Confession in open Court."
+    },
+    {
+      "id": "par116",
+      "audio": "tts000001-0004.mp3",
+      "speech": [
+        141.0,
+        151.53
+      ],
+      "clip": [
+        140.9,
+        151.73
+      ],
+      "cls": null,
+      "said": "The Congress shall have power to declare the punishment of Treason, but no Attainder of Treason shall work Corruption of Blood, or Forfeiture except during the Life of the Person attainted."
+    },
+    {
+      "id": "par117",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        0.6,
+        1.41
+      ],
+      "clip": [
+        0.5,
+        1.61
+      ],
+      "cls": "chapter",
+      "said": "Article 4."
+    },
+    {
+      "id": "par118",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        2.91,
+        3.68
+      ],
+      "clip": [
+        2.81,
+        3.88
+      ],
+      "cls": "section",
+      "said": "Section 1."
+    },
+    {
+      "id": "par119",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        4.83,
+        12.33
+      ],
+      "clip": [
+        4.73,
+        12.53
+      ],
+      "cls": null,
+      "said": "Full Faith and Credit shall be given in each State to the public Acts, Records, and judicial Proceedings of every other State."
+    },
+    {
+      "id": "par120",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        12.98,
+        20.98
+      ],
+      "clip": [
+        12.88,
+        21.18
+      ],
+      "cls": null,
+      "said": "And the Congress may by general Laws prescribe the Manner in which such Acts, Records, and Proceedings shall be proved, and the Effect thereof."
+    },
+    {
+      "id": "par121",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        22.33,
+        23.13
+      ],
+      "clip": [
+        22.23,
+        23.33
+      ],
+      "cls": "section",
+      "said": "Section 2."
+    },
+    {
+      "id": "par122",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        24.28,
+        30.84
+      ],
+      "clip": [
+        24.18,
+        31.04
+      ],
+      "cls": null,
+      "said": "The Citizens of each State shall be entitled to all Privileges and Immunities of Citizens in the several States."
+    },
+    {
+      "id": "par123",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        31.84,
+        48.69
+      ],
+      "clip": [
+        31.74,
+        48.89
+      ],
+      "cls": null,
+      "said": "A Person charged in any State with Treason, Felony, or other Crime, who shall flee from Justice, and be found in another State, shall on Demand of the executive Authority of the State from which he fled, be delivered up, to be removed to the State having Jurisdiction of the Crime."
+    },
+    {
+      "id": "par124",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        49.69,
+        67.64
+      ],
+      "clip": [
+        49.59,
+        67.84
+      ],
+      "cls": null,
+      "said": "No person held to Service or Labor in one State, under the Laws thereof, escaping into another, shall, in Consequence of any Law or Regulation therein, be discharged from such Service or Labor, But shall be delivered up on Claim of the Party to whom such Service or Labor may be due."
+    },
+    {
+      "id": "par125",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        68.99,
+        69.81
+      ],
+      "clip": [
+        68.89,
+        70.01
+      ],
+      "cls": "section",
+      "said": "Section 3."
+    },
+    {
+      "id": "par126",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        70.96,
+        90.49
+      ],
+      "clip": [
+        70.86,
+        90.69
+      ],
+      "cls": null,
+      "said": "New States may be admitted by the Congress into this Union; but no new States shall be formed or erected within the Jurisdiction of any other State; nor any State be formed by the Junction of two or more States, or Parts of States, without the Consent of the Legislatures of the States concerned as well as of the Congress."
+    },
+    {
+      "id": "par127",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        91.49,
+        109.76
+      ],
+      "clip": [
+        91.39,
+        109.96
+      ],
+      "cls": null,
+      "said": "The Congress shall have Power to dispose of and make all needful Rules and Regulations respecting the Territory or other Property belonging to the United States; and nothing in this Constitution shall be so construed as to Prejudice any Claims of the United States, or of any particular State."
+    },
+    {
+      "id": "par128",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        111.11,
+        111.92
+      ],
+      "clip": [
+        111.01,
+        112.12
+      ],
+      "cls": "section",
+      "said": "Section 4."
+    },
+    {
+      "id": "par129",
+      "audio": "tts000001-0005.mp3",
+      "speech": [
+        113.07,
+        129.85
+      ],
+      "clip": [
+        112.97,
+        130.05
+      ],
+      "cls": null,
+      "said": "The United States shall guarantee to every State in this Union a Republican Form of Government, and shall protect each of them against Invasion; and on Application of the Legislature, or of the Executive (when the Legislature cannot be convened) against domestic Violence."
+    },
+    {
+      "id": "par130",
+      "audio": "tts000001-0006.mp3",
+      "speech": [
+        0.6,
+        1.5
+      ],
+      "clip": [
+        0.5,
+        1.7
+      ],
+      "cls": "chapter",
+      "said": "Article 5."
+    },
+    {
+      "id": "par131",
+      "audio": "tts000001-0006.mp3",
+      "speech": [
+        2.65,
+        35.38
+      ],
+      "clip": [
+        2.55,
+        35.58
+      ],
+      "cls": null,
+      "said": "The Congress, whenever two thirds of both Houses shall deem it necessary, shall propose Amendments to this Constitution, or, on the Application of the Legislatures of two thirds of the several States, shall call a Convention for proposing Amendments, which, in either Case, shall be valid to all Intents and Purposes, as Part of this Constitution, when ratified by the Legislatures of three fourths of the several States, or by Conventions in three fourths thereof, as the one or the other Mode of Ratification may be proposed by the Congress;"
+    },
+    {
+      "id": "par132",
+      "audio": "tts000001-0006.mp3",
+      "speech": [
+        36.03,
+        52.69
+      ],
+      "clip": [
+        35.93,
+        52.89
+      ],
+      "cls": null,
+      "said": "Provided that no Amendment which may be made prior to the Year one thousand eight hundred and eight shall in any Manner affect the first and fourth Clauses in the ninth Section of the first Article; and that no State, without its Consent, shall be deprived of it's equal Suffrage in the Senate."
+    },
+    {
+      "id": "par133",
+      "audio": "tts000001-0007.mp3",
+      "speech": [
+        0.6,
+        1.47
+      ],
+      "clip": [
+        0.5,
+        1.67
+      ],
+      "cls": "chapter",
+      "said": "Article 6."
+    },
+    {
+      "id": "par134",
+      "audio": "tts000001-0007.mp3",
+      "speech": [
+        2.62,
+        14.32
+      ],
+      "clip": [
+        2.52,
+        14.52
+      ],
+      "cls": null,
+      "said": "All Debts contracted and Engagements entered into, before the Adoption of this Constitution, shall be as valid against the United States under this Constitution, as under the Confederation."
+    },
+    {
+      "id": "par135",
+      "audio": "tts000001-0007.mp3",
+      "speech": [
+        15.32,
+        36.67
+      ],
+      "clip": [
+        15.22,
+        36.87
+      ],
+      "cls": null,
+      "said": "This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding."
+    },
+    {
+      "id": "par136",
+      "audio": "tts000001-0007.mp3",
+      "speech": [
+        37.67,
+        61.51
+      ],
+      "clip": [
+        37.57,
+        61.71
+      ],
+      "cls": null,
+      "said": "The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States."
+    },
+    {
+      "id": "par137",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        0.6,
+        1.47
+      ],
+      "clip": [
+        0.5,
+        1.67
+      ],
+      "cls": "chapter",
+      "said": "Article 7."
+    },
+    {
+      "id": "par138",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        2.62,
+        11.6
+      ],
+      "clip": [
+        2.52,
+        11.8
+      ],
+      "cls": null,
+      "said": "The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same."
+    },
+    {
+      "id": "par139",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        12.6,
+        26.32
+      ],
+      "clip": [
+        12.5,
+        26.52
+      ],
+      "cls": null,
+      "said": "Done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and eighty seven and of the Independence of the United States of America the Twelfth."
+    },
+    {
+      "id": "par140",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        26.97,
+        30.18
+      ],
+      "clip": [
+        26.87,
+        30.38
+      ],
+      "cls": null,
+      "said": "In Witness whereof We have hereunto subscribed our Names,"
+    },
+    {
+      "id": "par141",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        31.18,
+        34.36
+      ],
+      "clip": [
+        31.08,
+        34.56
+      ],
+      "cls": null,
+      "said": "George Washington, President, and deputy from Virginia"
+    },
+    {
+      "id": "par142",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        35.36,
+        36.1
+      ],
+      "clip": [
+        35.26,
+        36.3
+      ],
+      "cls": null,
+      "said": "New Hampshire"
+    },
+    {
+      "id": "par143",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        37.1,
+        38.59
+      ],
+      "clip": [
+        37.0,
+        38.79
+      ],
+      "cls": null,
+      "said": "John Langdon Nicholas Gilman"
+    },
+    {
+      "id": "par144",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        39.59,
+        40.44
+      ],
+      "clip": [
+        39.49,
+        40.64
+      ],
+      "cls": null,
+      "said": "Massachusetts"
+    },
+    {
+      "id": "par145",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        41.44,
+        43.07
+      ],
+      "clip": [
+        41.34,
+        43.27
+      ],
+      "cls": null,
+      "said": "Nathaniel Gorham Rufus King"
+    },
+    {
+      "id": "par146",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        44.07,
+        44.75
+      ],
+      "clip": [
+        43.97,
+        44.95
+      ],
+      "cls": null,
+      "said": "Connecticut"
+    },
+    {
+      "id": "par147",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        45.75,
+        47.83
+      ],
+      "clip": [
+        45.65,
+        48.03
+      ],
+      "cls": null,
+      "said": "William Samuel Johnson Roger Sherman"
+    },
+    {
+      "id": "par148",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        48.83,
+        49.46
+      ],
+      "clip": [
+        48.73,
+        49.66
+      ],
+      "cls": null,
+      "said": "New York"
+    },
+    {
+      "id": "par149",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        50.46,
+        51.74
+      ],
+      "clip": [
+        50.36,
+        51.94
+      ],
+      "cls": null,
+      "said": "Alexander Hamilton"
+    },
+    {
+      "id": "par150",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        52.74,
+        53.43
+      ],
+      "clip": [
+        52.64,
+        53.63
+      ],
+      "cls": null,
+      "said": "New Jersey"
+    },
+    {
+      "id": "par151",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        54.43,
+        57.91
+      ],
+      "clip": [
+        54.33,
+        58.11
+      ],
+      "cls": null,
+      "said": "William Livingston David Brearley William Paterson Jonathan"
+    },
+    {
+      "id": "par152",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        58.56,
+        59.08
+      ],
+      "clip": [
+        58.46,
+        59.28
+      ],
+      "cls": null,
+      "said": "Dayton"
+    },
+    {
+      "id": "par153",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        60.08,
+        60.85
+      ],
+      "clip": [
+        59.98,
+        61.05
+      ],
+      "cls": null,
+      "said": "Pennsylvania"
+    },
+    {
+      "id": "par154",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        61.85,
+        64.78
+      ],
+      "clip": [
+        61.75,
+        64.98
+      ],
+      "cls": null,
+      "said": "Benjamin Franklin Thomas Mifflin Robert Morris George"
+    },
+    {
+      "id": "par155",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        65.43,
+        69.99
+      ],
+      "clip": [
+        65.33,
+        70.19
+      ],
+      "cls": null,
+      "said": "Clymer Thomas FitzSimons Jared Ingersoll James Wilson Gouverneur Morris"
+    },
+    {
+      "id": "par156",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        70.99,
+        71.52
+      ],
+      "clip": [
+        70.89,
+        71.72
+      ],
+      "cls": null,
+      "said": "Delaware"
+    },
+    {
+      "id": "par157",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        72.52,
+        76.82
+      ],
+      "clip": [
+        72.42,
+        77.02
+      ],
+      "cls": null,
+      "said": "George Read Gunning Bedford junior John Dickinson Richard Bassett Jacob"
+    },
+    {
+      "id": "par158",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        77.47,
+        77.94
+      ],
+      "clip": [
+        77.37,
+        78.14
+      ],
+      "cls": null,
+      "said": "Broom"
+    },
+    {
+      "id": "par159",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        78.94,
+        79.53
+      ],
+      "clip": [
+        78.84,
+        79.73
+      ],
+      "cls": null,
+      "said": "Maryland"
+    },
+    {
+      "id": "par160",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        80.53,
+        84.22
+      ],
+      "clip": [
+        80.43,
+        84.42
+      ],
+      "cls": null,
+      "said": "James McHenry Daniel of Saint Thomas Jenifer Daniel Carroll"
+    },
+    {
+      "id": "par161",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        85.22,
+        85.87
+      ],
+      "clip": [
+        85.12,
+        86.07
+      ],
+      "cls": null,
+      "said": "Virginia"
+    },
+    {
+      "id": "par162",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        86.87,
+        88.94
+      ],
+      "clip": [
+        86.77,
+        89.14
+      ],
+      "cls": null,
+      "said": "John Blair,  James Madison Junior"
+    },
+    {
+      "id": "par163",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        89.94,
+        90.83
+      ],
+      "clip": [
+        89.84,
+        91.03
+      ],
+      "cls": null,
+      "said": "North Carolina"
+    },
+    {
+      "id": "par164",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        91.83,
+        94.3
+      ],
+      "clip": [
+        91.73,
+        94.5
+      ],
+      "cls": null,
+      "said": "William Blount Richard Dobbs Spaight Hugh Williamson"
+    },
+    {
+      "id": "par165",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        95.3,
+        96.19
+      ],
+      "clip": [
+        95.2,
+        96.39
+      ],
+      "cls": null,
+      "said": "South Carolina"
+    },
+    {
+      "id": "par166",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        97.19,
+        100.94
+      ],
+      "clip": [
+        97.09,
+        101.14
+      ],
+      "cls": null,
+      "said": "John Rutledge Charles Cotesworth Pinckney Charles Pinckney Pierce Butler"
+    },
+    {
+      "id": "par167",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        101.94,
+        102.41
+      ],
+      "clip": [
+        101.84,
+        102.61
+      ],
+      "cls": null,
+      "said": "Georgia"
+    },
+    {
+      "id": "par168",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        103.41,
+        105.01
+      ],
+      "clip": [
+        103.31,
+        105.21
+      ],
+      "cls": null,
+      "said": "William Few Abraham Baldwin"
+    },
+    {
+      "id": "par169",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        106.01,
+        108.31
+      ],
+      "clip": [
+        105.91,
+        108.51
+      ],
+      "cls": null,
+      "said": "Attest: William Jackson, Secretary"
+    },
+    {
+      "id": "par170",
+      "audio": "tts000001-0008.mp3",
+      "speech": [
+        109.66,
+        114.34
+      ],
+      "clip": [
+        109.56,
+        114.54
+      ],
+      "cls": "close",
+      "said": "End of The Constitution of the United States of America, 1787."
+    }
+  ],
+  "nav": [
+    {
+      "label": "The Constitution of the United States of America, 1787",
+      "cls": "title/author",
+      "target": "par1",
+      "heading": [
+        0.5,
+        5.0
+      ],
+      "children": []
+    },
+    {
+      "label": "Preamble",
+      "cls": "prelimitem",
+      "target": "par2",
+      "heading": [
+        11.22,
+        12.14
+      ],
+      "children": []
+    },
+    {
+      "label": "Article I",
+      "cls": "chapter",
+      "target": "par4",
+      "heading": [
+        13.34,
+        14.41
+      ],
+      "children": [
+        {
+          "label": "Section 1",
+          "cls": "section",
+          "target": "par5",
+          "heading": [
+            15.61,
+            16.68
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 2",
+          "cls": "section",
+          "target": "par7",
+          "heading": [
+            17.88,
+            18.98
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 3",
+          "cls": "section",
+          "target": "par15",
+          "heading": [
+            20.18,
+            21.3
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 4",
+          "cls": "section",
+          "target": "par27",
+          "heading": [
+            22.5,
+            23.6
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 5",
+          "cls": "section",
+          "target": "par30",
+          "heading": [
+            24.8,
+            25.89
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 6",
+          "cls": "section",
+          "target": "par35",
+          "heading": [
+            27.09,
+            28.24
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 7",
+          "cls": "section",
+          "target": "par39",
+          "heading": [
+            29.44,
+            30.61
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 8",
+          "cls": "section",
+          "target": "par47",
+          "heading": [
+            31.81,
+            32.91
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 9",
+          "cls": "section",
+          "target": "par66",
+          "heading": [
+            34.11,
+            35.24
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 10",
+          "cls": "section",
+          "target": "par75",
+          "heading": [
+            36.44,
+            37.55
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Article Ii",
+      "cls": "chapter",
+      "target": "par79",
+      "heading": [
+        38.75,
+        39.83
+      ],
+      "children": [
+        {
+          "label": "Section 1",
+          "cls": "section",
+          "target": "par80",
+          "heading": [
+            41.03,
+            42.1
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 2",
+          "cls": "section",
+          "target": "par96",
+          "heading": [
+            43.3,
+            44.4
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 3",
+          "cls": "section",
+          "target": "par100",
+          "heading": [
+            45.6,
+            46.72
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 4",
+          "cls": "section",
+          "target": "par102",
+          "heading": [
+            47.92,
+            49.03
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Article Iii",
+      "cls": "chapter",
+      "target": "par104",
+      "heading": [
+        50.23,
+        51.36
+      ],
+      "children": [
+        {
+          "label": "Section 1",
+          "cls": "section",
+          "target": "par105",
+          "heading": [
+            52.56,
+            53.63
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 2",
+          "cls": "section",
+          "target": "par108",
+          "heading": [
+            54.83,
+            55.93
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 3",
+          "cls": "section",
+          "target": "par113",
+          "heading": [
+            57.13,
+            58.25
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Article Iv",
+      "cls": "chapter",
+      "target": "par117",
+      "heading": [
+        59.45,
+        60.56
+      ],
+      "children": [
+        {
+          "label": "Section 1",
+          "cls": "section",
+          "target": "par118",
+          "heading": [
+            61.76,
+            62.83
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 2",
+          "cls": "section",
+          "target": "par121",
+          "heading": [
+            64.03,
+            65.13
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 3",
+          "cls": "section",
+          "target": "par125",
+          "heading": [
+            66.33,
+            67.45
+          ],
+          "children": []
+        },
+        {
+          "label": "Section 4",
+          "cls": "section",
+          "target": "par128",
+          "heading": [
+            68.65,
+            69.76
+          ],
+          "children": []
+        }
+      ]
+    },
+    {
+      "label": "Article V",
+      "cls": "chapter",
+      "target": "par130",
+      "heading": [
+        70.96,
+        72.16
+      ],
+      "children": []
+    },
+    {
+      "label": "Article Vi",
+      "cls": "chapter",
+      "target": "par133",
+      "heading": [
+        73.36,
+        74.53
+      ],
+      "children": []
+    },
+    {
+      "label": "Article Vii",
+      "cls": "chapter",
+      "target": "par137",
+      "heading": [
+        75.73,
+        76.9
+      ],
+      "children": []
+    },
+    {
+      "label": "End of The Constitution of the United States of America, 1787",
+      "cls": "close",
+      "target": "par170",
+      "heading": [
+        78.1,
+        83.08
+      ],
+      "children": []
+    }
+  ],
+  "title_clip": [
+    0.5,
+    5.0
+  ],
+  "author_clip": [
+    6.2,
+    10.02
+  ]
+}

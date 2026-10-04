@@ -1,0 +1,5 @@
+# Building a book (the voice model downloads on first run)
+kokoro==0.9.4
+numpy>=1.26
+soundfile>=0.12
+# Also needed on PATH: ffmpeg, xmllint (libxml2), and whisper-cli (whisper.cpp) for the intelligibility check

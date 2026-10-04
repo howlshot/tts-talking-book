@@ -1,0 +1,226 @@
+{
+  "title": "The Constitution of the United States of America, 1787",
+  "pid": "tts000001",
+  "engine": "Kokoro-82M (Apache 2.0)",
+  "voice": "af_heart",
+  "built": "2026-10-04",
+  "phrases": 202,
+  "smil_pars": 170,
+  "nav_points": 31,
+  "audio_seconds": 1773.0,
+  "total_time": "0:27:27.930",
+  "synthesis_seconds": 210.4,
+  "realtime_factor": 8.4,
+  "build_seconds": 283.8,
+  "loudness": {
+    "tts000001-0001.wav": {
+      "integrated_lufs": -18.24,
+      "true_peak_dbtp": -1.48
+    },
+    "tts000001-0002.wav": {
+      "integrated_lufs": -18.14,
+      "true_peak_dbtp": -1.43
+    },
+    "tts000001-0003.wav": {
+      "integrated_lufs": -18.14,
+      "true_peak_dbtp": -1.46
+    },
+    "tts000001-0004.wav": {
+      "integrated_lufs": -18.17,
+      "true_peak_dbtp": -1.48
+    },
+    "tts000001-0005.wav": {
+      "integrated_lufs": -18.26,
+      "true_peak_dbtp": -1.45
+    },
+    "tts000001-0006.wav": {
+      "integrated_lufs": -18.27,
+      "true_peak_dbtp": -1.48
+    },
+    "tts000001-0007.wav": {
+      "integrated_lufs": -18.3,
+      "true_peak_dbtp": -1.47
+    },
+    "tts000001-0008.wav": {
+      "integrated_lufs": -18.13,
+      "true_peak_dbtp": -1.32
+    },
+    "tts000001hdgs.wav": {
+      "integrated_lufs": -18.37,
+      "true_peak_dbtp": -1.46
+    }
+  },
+  "lexicon_hits": [
+    {
+      "text": "chuse",
+      "said": "choose"
+    },
+    {
+      "text": "chuse",
+      "said": "choose"
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "chuse",
+      "said": "choose"
+    },
+    {
+      "text": "chuse",
+      "said": "choose"
+    },
+    {
+      "text": "chuse",
+      "said": "choose"
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "Go. WASHINGTON\u2014 Presid.",
+      "said": "George Washington, President,"
+    },
+    {
+      "text": "Wm.",
+      "said": "William"
+    },
+    {
+      "text": "Saml.",
+      "said": "Samuel"
+    },
+    {
+      "text": "Wm.",
+      "said": "William"
+    },
+    {
+      "text": "Wil:",
+      "said": "William"
+    },
+    {
+      "text": "Jona:",
+      "said": "Jonathan"
+    },
+    {
+      "text": "B Franklin",
+      "said": "Benjamin Franklin"
+    },
+    {
+      "text": "Geo.",
+      "said": "George"
+    },
+    {
+      "text": "Robt",
+      "said": "Robert"
+    },
+    {
+      "text": "Thos",
+      "said": "Thomas"
+    },
+    {
+      "text": "Gouv",
+      "said": "Gouverneur"
+    },
+    {
+      "text": "Jaco:",
+      "said": "Jacob"
+    },
+    {
+      "text": "Geo:",
+      "said": "George"
+    },
+    {
+      "text": "jun",
+      "said": "junior"
+    },
+    {
+      "text": "Dan of St Thos. Jenifer",
+      "said": "Daniel of Saint Thomas Jenifer"
+    },
+    {
+      "text": "Danl",
+      "said": "Daniel"
+    },
+    {
+      "text": "Mchenry",
+      "said": "McHenry"
+    },
+    {
+      "text": "Jr.",
+      "said": "Junior"
+    },
+    {
+      "text": "\u2014",
+      "said": ", "
+    },
+    {
+      "text": "Wm.",
+      "said": "William"
+    },
+    {
+      "text": "Rich'd",
+      "said": "Richard"
+    },
+    {
+      "text": "Hu",
+      "said": "Hugh"
+    },
+    {
+      "text": "J. Rutledge",
+      "said": "John Rutledge"
+    },
+    {
+      "text": "Abr",
+      "said": "Abraham"
+    }
+  ],
+  "files": [
+    "dtbsmil-2005-1.dtd",
+    "ncx-2005-1.dtd",
+    "oeb12.ent",
+    "oebpkg12.dtd",
+    "tts000001-0001.mp3",
+    "tts000001-0002.mp3",
+    "tts000001-0003.mp3",
+    "tts000001-0004.mp3",
+    "tts000001-0005.mp3",
+    "tts000001-0006.mp3",
+    "tts000001-0007.mp3",
+    "tts000001-0008.mp3",
+    "tts000001.ncx",
+    "tts000001.opf",
+    "tts000001.smil",
+    "tts000001dtb.md5",
+    "tts000001hdgs.mp3"
+  ]
+}

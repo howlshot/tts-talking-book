@@ -1,0 +1,152 @@
+[
+  {
+    "check": "File names are lower case",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "No more than 250 files",
+    "ok": true,
+    "detail": "17 files"
+  },
+  {
+    "check": "Audio sequence starts at -0001 and is continuous",
+    "ok": true,
+    "detail": "8 primary audio files"
+  },
+  {
+    "check": "tts000001.opf present",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001.ncx present",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001.smil present",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001hdgs.mp3 present",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001dtb.md5 present",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001.opf is valid to its DTD (offline)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001.ncx is valid to its DTD (offline)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001.smil is valid to its DTD (offline)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "tts000001dtb.md5 is valid to its DTD (offline)",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "navPoint playOrder runs 1..n in document order",
+    "ok": true,
+    "detail": "31 navPoints"
+  },
+  {
+    "check": "No more than 5,000 navPoints",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "navPoint classes come from Spec 1203 Table 1",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "Every navPoint points to a SMIL element",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "Every navLabel has text and audio",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "dtb:depth matches the navPoint nesting",
+    "ok": true,
+    "detail": "declared 2"
+  },
+  {
+    "check": "Every SMIL audio has clipBegin before clipEnd",
+    "ok": true,
+    "detail": "170 clips"
+  },
+  {
+    "check": "SMIL file is at most 100 KiB",
+    "ok": true,
+    "detail": "21.6 KiB"
+  },
+  {
+    "check": "Every audio src exists",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "dc:Identifier has id=uid and matches NCX and SMIL",
+    "ok": true,
+    "detail": "sample-tts000001"
+  },
+  {
+    "check": "dtb:multimediaType is audioNCX",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "dtb:totalTime equals the summed SMIL audio within 1 s",
+    "ok": true,
+    "detail": "0:27:27.930 vs 1647.9 s"
+  },
+  {
+    "check": "Manifest lists every file except the checksum file",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "dc:Date is yyyy-mm",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "Checksum file matches every file",
+    "ok": true,
+    "detail": "16 files"
+  },
+  {
+    "check": "Checksum <book> matches the dc:Identifier",
+    "ok": true,
+    "detail": ""
+  },
+  {
+    "check": "Clip timing within Spec 1203 windows (measured)",
+    "ok": true,
+    "detail": "203/203 clips"
+  },
+  {
+    "check": "MP3 duration within 0.1 s of its master",
+    "ok": true,
+    "detail": "max drift 0.000 s"
+  }
+]

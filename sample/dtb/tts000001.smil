@@ -1,0 +1,523 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE smil PUBLIC "-//NISO//DTD dtbsmil 2005-1//EN" "dtbsmil-2005-1.dtd">
+<smil xmlns="http://www.w3.org/2001/SMIL20/">
+  <head>
+    <meta name="dtb:uid" content="sample-tts000001"/>
+    <meta name="dtb:generator" content="Studio Chingie TTS Talking Book 0.1"/>
+    <meta name="dtb:totalElapsedTime" content="0:00:00.000"/>
+  </head>
+  <body>
+    <seq id="mseq" dur="0:27:27.930">
+      <par id="par1" class="title/author">
+        <audio src="tts000001-0001.mp3" clipBegin="0:00:00.500" clipEnd="0:00:11.280"/>
+      </par>
+      <par id="par2" class="prelimitem">
+        <audio src="tts000001-0001.mp3" clipBegin="0:00:12.480" clipEnd="0:00:13.400"/>
+      </par>
+      <par id="par3">
+        <audio src="tts000001-0001.mp3" clipBegin="0:00:14.250" clipEnd="0:00:35.120"/>
+      </par>
+      <par id="par4" class="chapter">
+        <audio src="tts000001-0002.mp3" clipBegin="0:00:00.500" clipEnd="0:00:01.570"/>
+      </par>
+      <par id="par5" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:00:02.770" clipEnd="0:00:03.840"/>
+      </par>
+      <par id="par6">
+        <audio src="tts000001-0002.mp3" clipBegin="0:00:04.690" clipEnd="0:00:14.120"/>
+      </par>
+      <par id="par7" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:00:15.170" clipEnd="0:00:16.270"/>
+      </par>
+      <par id="par8">
+        <audio src="tts000001-0002.mp3" clipBegin="0:00:17.120" clipEnd="0:00:32.030"/>
+      </par>
+      <par id="par9">
+        <audio src="tts000001-0002.mp3" clipBegin="0:00:32.730" clipEnd="0:00:47.200"/>
+      </par>
+      <par id="par10">
+        <audio src="tts000001-0002.mp3" clipBegin="0:00:47.900" clipEnd="0:01:08.980"/>
+      </par>
+      <par id="par11">
+        <audio src="tts000001-0002.mp3" clipBegin="0:01:09.330" clipEnd="0:01:21.840"/>
+      </par>
+      <par id="par12">
+        <audio src="tts000001-0002.mp3" clipBegin="0:01:22.190" clipEnd="0:01:49.530"/>
+      </par>
+      <par id="par13">
+        <audio src="tts000001-0002.mp3" clipBegin="0:01:50.230" clipEnd="0:01:58.900"/>
+      </par>
+      <par id="par14">
+        <audio src="tts000001-0002.mp3" clipBegin="0:01:59.600" clipEnd="0:02:06.630"/>
+      </par>
+      <par id="par15" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:02:07.680" clipEnd="0:02:08.800"/>
+      </par>
+      <par id="par16">
+        <audio src="tts000001-0002.mp3" clipBegin="0:02:09.650" clipEnd="0:02:19.990"/>
+      </par>
+      <par id="par17">
+        <audio src="tts000001-0002.mp3" clipBegin="0:02:20.690" clipEnd="0:02:28.810"/>
+      </par>
+      <par id="par18">
+        <audio src="tts000001-0002.mp3" clipBegin="0:02:29.160" clipEnd="0:02:59.890"/>
+      </par>
+      <par id="par19">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:00.590" clipEnd="0:03:14.280"/>
+      </par>
+      <par id="par20">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:14.980" clipEnd="0:03:22.220"/>
+      </par>
+      <par id="par21">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:22.920" clipEnd="0:03:34.520"/>
+      </par>
+      <par id="par22">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:35.220" clipEnd="0:03:38.520"/>
+      </par>
+      <par id="par23">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:38.870" clipEnd="0:03:42.650"/>
+      </par>
+      <par id="par24">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:43.000" clipEnd="0:03:47.490"/>
+      </par>
+      <par id="par25">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:47.840" clipEnd="0:03:53.230"/>
+      </par>
+      <par id="par26">
+        <audio src="tts000001-0002.mp3" clipBegin="0:03:53.930" clipEnd="0:04:14.500"/>
+      </par>
+      <par id="par27" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:04:15.550" clipEnd="0:04:16.650"/>
+      </par>
+      <par id="par28">
+        <audio src="tts000001-0002.mp3" clipBegin="0:04:17.500" clipEnd="0:04:34.440"/>
+      </par>
+      <par id="par29">
+        <audio src="tts000001-0002.mp3" clipBegin="0:04:35.140" clipEnd="0:04:44.460"/>
+      </par>
+      <par id="par30" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:04:45.510" clipEnd="0:04:46.600"/>
+      </par>
+      <par id="par31">
+        <audio src="tts000001-0002.mp3" clipBegin="0:04:47.450" clipEnd="0:05:08.560"/>
+      </par>
+      <par id="par32">
+        <audio src="tts000001-0002.mp3" clipBegin="0:05:09.260" clipEnd="0:05:18.960"/>
+      </par>
+      <par id="par33">
+        <audio src="tts000001-0002.mp3" clipBegin="0:05:19.660" clipEnd="0:05:38.200"/>
+      </par>
+      <par id="par34">
+        <audio src="tts000001-0002.mp3" clipBegin="0:05:38.900" clipEnd="0:05:49.610"/>
+      </par>
+      <par id="par35" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:05:50.660" clipEnd="0:05:51.810"/>
+      </par>
+      <par id="par36">
+        <audio src="tts000001-0002.mp3" clipBegin="0:05:52.660" clipEnd="0:06:02.280"/>
+      </par>
+      <par id="par37">
+        <audio src="tts000001-0002.mp3" clipBegin="0:06:02.630" clipEnd="0:06:20.800"/>
+      </par>
+      <par id="par38">
+        <audio src="tts000001-0002.mp3" clipBegin="0:06:21.500" clipEnd="0:06:43.860"/>
+      </par>
+      <par id="par39" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:06:44.910" clipEnd="0:06:46.080"/>
+      </par>
+      <par id="par40">
+        <audio src="tts000001-0002.mp3" clipBegin="0:06:46.930" clipEnd="0:06:56.190"/>
+      </par>
+      <par id="par41">
+        <audio src="tts000001-0002.mp3" clipBegin="0:06:56.890" clipEnd="0:07:06.120"/>
+      </par>
+      <par id="par42">
+        <audio src="tts000001-0002.mp3" clipBegin="0:07:06.470" clipEnd="0:07:18.940"/>
+      </par>
+      <par id="par43">
+        <audio src="tts000001-0002.mp3" clipBegin="0:07:19.290" clipEnd="0:07:34.620"/>
+      </par>
+      <par id="par44">
+        <audio src="tts000001-0002.mp3" clipBegin="0:07:34.970" clipEnd="0:07:47.500"/>
+      </par>
+      <par id="par45">
+        <audio src="tts000001-0002.mp3" clipBegin="0:07:47.850" clipEnd="0:08:05.320"/>
+      </par>
+      <par id="par46">
+        <audio src="tts000001-0002.mp3" clipBegin="0:08:06.020" clipEnd="0:08:32.490"/>
+      </par>
+      <par id="par47" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:08:33.540" clipEnd="0:08:34.640"/>
+      </par>
+      <par id="par48">
+        <audio src="tts000001-0002.mp3" clipBegin="0:08:35.490" clipEnd="0:08:52.690"/>
+      </par>
+      <par id="par49">
+        <audio src="tts000001-0002.mp3" clipBegin="0:08:53.390" clipEnd="0:08:56.420"/>
+      </par>
+      <par id="par50">
+        <audio src="tts000001-0002.mp3" clipBegin="0:08:57.120" clipEnd="0:09:02.780"/>
+      </par>
+      <par id="par51">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:03.480" clipEnd="0:09:11.470"/>
+      </par>
+      <par id="par52">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:12.170" clipEnd="0:09:18.570"/>
+      </par>
+      <par id="par53">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:19.270" clipEnd="0:09:25.080"/>
+      </par>
+      <par id="par54">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:25.780" clipEnd="0:09:28.680"/>
+      </par>
+      <par id="par55">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:29.380" clipEnd="0:09:40.330"/>
+      </par>
+      <par id="par56">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:41.030" clipEnd="0:09:44.150"/>
+      </par>
+      <par id="par57">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:44.850" clipEnd="0:09:51.700"/>
+      </par>
+      <par id="par58">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:52.400" clipEnd="0:09:59.170"/>
+      </par>
+      <par id="par59">
+        <audio src="tts000001-0002.mp3" clipBegin="0:09:59.870" clipEnd="0:10:06.880"/>
+      </par>
+      <par id="par60">
+        <audio src="tts000001-0002.mp3" clipBegin="0:10:07.580" clipEnd="0:10:09.640"/>
+      </par>
+      <par id="par61">
+        <audio src="tts000001-0002.mp3" clipBegin="0:10:10.340" clipEnd="0:10:15.130"/>
+      </par>
+      <par id="par62">
+        <audio src="tts000001-0002.mp3" clipBegin="0:10:15.830" clipEnd="0:10:23.180"/>
+      </par>
+      <par id="par63">
+        <audio src="tts000001-0002.mp3" clipBegin="0:10:23.880" clipEnd="0:10:43.090"/>
+      </par>
+      <par id="par64">
+        <audio src="tts000001-0002.mp3" clipBegin="0:10:43.790" clipEnd="0:11:11.580"/>
+      </par>
+      <par id="par65">
+        <audio src="tts000001-0002.mp3" clipBegin="0:11:12.280" clipEnd="0:11:26.840"/>
+      </par>
+      <par id="par66" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:11:27.890" clipEnd="0:11:29.020"/>
+      </par>
+      <par id="par67">
+        <audio src="tts000001-0002.mp3" clipBegin="0:11:29.870" clipEnd="0:11:48.310"/>
+      </par>
+      <par id="par68">
+        <audio src="tts000001-0002.mp3" clipBegin="0:11:49.010" clipEnd="0:11:58.300"/>
+      </par>
+      <par id="par69">
+        <audio src="tts000001-0002.mp3" clipBegin="0:11:59.000" clipEnd="0:12:02.780"/>
+      </par>
+      <par id="par70">
+        <audio src="tts000001-0002.mp3" clipBegin="0:12:03.480" clipEnd="0:12:13.010"/>
+      </par>
+      <par id="par71">
+        <audio src="tts000001-0002.mp3" clipBegin="0:12:13.710" clipEnd="0:12:18.010"/>
+      </par>
+      <par id="par72">
+        <audio src="tts000001-0002.mp3" clipBegin="0:12:18.710" clipEnd="0:12:32.720"/>
+      </par>
+      <par id="par73">
+        <audio src="tts000001-0002.mp3" clipBegin="0:12:33.420" clipEnd="0:12:46.630"/>
+      </par>
+      <par id="par74">
+        <audio src="tts000001-0002.mp3" clipBegin="0:12:47.330" clipEnd="0:13:05.380"/>
+      </par>
+      <par id="par75" class="section">
+        <audio src="tts000001-0002.mp3" clipBegin="0:13:06.430" clipEnd="0:13:07.540"/>
+      </par>
+      <par id="par76">
+        <audio src="tts000001-0002.mp3" clipBegin="0:13:08.390" clipEnd="0:13:30.480"/>
+      </par>
+      <par id="par77">
+        <audio src="tts000001-0002.mp3" clipBegin="0:13:31.180" clipEnd="0:13:56.660"/>
+      </par>
+      <par id="par78">
+        <audio src="tts000001-0002.mp3" clipBegin="0:13:57.360" clipEnd="0:14:16.280"/>
+      </par>
+      <par id="par79" class="chapter">
+        <audio src="tts000001-0003.mp3" clipBegin="0:00:00.500" clipEnd="0:00:01.580"/>
+      </par>
+      <par id="par80" class="section">
+        <audio src="tts000001-0003.mp3" clipBegin="0:00:02.780" clipEnd="0:00:03.850"/>
+      </par>
+      <par id="par81">
+        <audio src="tts000001-0003.mp3" clipBegin="0:00:04.700" clipEnd="0:00:09.910"/>
+      </par>
+      <par id="par82">
+        <audio src="tts000001-0003.mp3" clipBegin="0:00:10.260" clipEnd="0:00:18.840"/>
+      </par>
+      <par id="par83">
+        <audio src="tts000001-0003.mp3" clipBegin="0:00:19.540" clipEnd="0:00:40.570"/>
+      </par>
+      <par id="par84">
+        <audio src="tts000001-0003.mp3" clipBegin="0:00:41.270" clipEnd="0:00:51.000"/>
+      </par>
+      <par id="par85">
+        <audio src="tts000001-0003.mp3" clipBegin="0:00:51.350" clipEnd="0:01:05.700"/>
+      </par>
+      <par id="par86">
+        <audio src="tts000001-0003.mp3" clipBegin="0:01:06.050" clipEnd="0:01:15.080"/>
+      </par>
+      <par id="par87">
+        <audio src="tts000001-0003.mp3" clipBegin="0:01:15.430" clipEnd="0:01:41.010"/>
+      </par>
+      <par id="par88">
+        <audio src="tts000001-0003.mp3" clipBegin="0:01:41.360" clipEnd="0:01:57.810"/>
+      </par>
+      <par id="par89">
+        <audio src="tts000001-0003.mp3" clipBegin="0:01:58.160" clipEnd="0:02:06.320"/>
+      </par>
+      <par id="par90">
+        <audio src="tts000001-0003.mp3" clipBegin="0:02:06.670" clipEnd="0:02:13.290"/>
+      </par>
+      <par id="par91">
+        <audio src="tts000001-0003.mp3" clipBegin="0:02:13.990" clipEnd="0:02:23.290"/>
+      </par>
+      <par id="par92">
+        <audio src="tts000001-0003.mp3" clipBegin="0:02:23.990" clipEnd="0:02:45.420"/>
+      </par>
+      <par id="par93">
+        <audio src="tts000001-0003.mp3" clipBegin="0:02:46.120" clipEnd="0:03:15.130"/>
+      </par>
+      <par id="par94">
+        <audio src="tts000001-0003.mp3" clipBegin="0:03:15.830" clipEnd="0:03:32.860"/>
+      </par>
+      <par id="par95">
+        <audio src="tts000001-0003.mp3" clipBegin="0:03:33.560" clipEnd="0:03:52.760"/>
+      </par>
+      <par id="par96" class="section">
+        <audio src="tts000001-0003.mp3" clipBegin="0:03:53.810" clipEnd="0:03:54.910"/>
+      </par>
+      <par id="par97">
+        <audio src="tts000001-0003.mp3" clipBegin="0:03:55.760" clipEnd="0:04:24.360"/>
+      </par>
+      <par id="par98">
+        <audio src="tts000001-0003.mp3" clipBegin="0:04:25.060" clipEnd="0:05:02.650"/>
+      </par>
+      <par id="par99">
+        <audio src="tts000001-0003.mp3" clipBegin="0:05:03.350" clipEnd="0:05:13.450"/>
+      </par>
+      <par id="par100" class="section">
+        <audio src="tts000001-0003.mp3" clipBegin="0:05:14.500" clipEnd="0:05:15.620"/>
+      </par>
+      <par id="par101">
+        <audio src="tts000001-0003.mp3" clipBegin="0:05:16.470" clipEnd="0:05:50.400"/>
+      </par>
+      <par id="par102" class="section">
+        <audio src="tts000001-0003.mp3" clipBegin="0:05:51.450" clipEnd="0:05:52.560"/>
+      </par>
+      <par id="par103">
+        <audio src="tts000001-0003.mp3" clipBegin="0:05:53.410" clipEnd="0:06:06.110"/>
+      </par>
+      <par id="par104" class="chapter">
+        <audio src="tts000001-0004.mp3" clipBegin="0:00:00.500" clipEnd="0:00:01.630"/>
+      </par>
+      <par id="par105" class="section">
+        <audio src="tts000001-0004.mp3" clipBegin="0:00:02.830" clipEnd="0:00:03.900"/>
+      </par>
+      <par id="par106">
+        <audio src="tts000001-0004.mp3" clipBegin="0:00:04.750" clipEnd="0:00:15.560"/>
+      </par>
+      <par id="par107">
+        <audio src="tts000001-0004.mp3" clipBegin="0:00:15.910" clipEnd="0:00:30.920"/>
+      </par>
+      <par id="par108" class="section">
+        <audio src="tts000001-0004.mp3" clipBegin="0:00:31.970" clipEnd="0:00:33.070"/>
+      </par>
+      <par id="par109">
+        <audio src="tts000001-0004.mp3" clipBegin="0:00:33.920" clipEnd="0:01:16.910"/>
+      </par>
+      <par id="par110">
+        <audio src="tts000001-0004.mp3" clipBegin="0:01:17.610" clipEnd="0:01:27.960"/>
+      </par>
+      <par id="par111">
+        <audio src="tts000001-0004.mp3" clipBegin="0:01:28.310" clipEnd="0:01:40.280"/>
+      </par>
+      <par id="par112">
+        <audio src="tts000001-0004.mp3" clipBegin="0:01:40.980" clipEnd="0:01:58.570"/>
+      </par>
+      <par id="par113" class="section">
+        <audio src="tts000001-0004.mp3" clipBegin="0:01:59.620" clipEnd="0:02:00.740"/>
+      </par>
+      <par id="par114">
+        <audio src="tts000001-0004.mp3" clipBegin="0:02:01.590" clipEnd="0:02:10.700"/>
+      </par>
+      <par id="par115">
+        <audio src="tts000001-0004.mp3" clipBegin="0:02:11.050" clipEnd="0:02:20.200"/>
+      </par>
+      <par id="par116">
+        <audio src="tts000001-0004.mp3" clipBegin="0:02:20.900" clipEnd="0:02:31.730"/>
+      </par>
+      <par id="par117" class="chapter">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:00.500" clipEnd="0:00:01.610"/>
+      </par>
+      <par id="par118" class="section">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:02.810" clipEnd="0:00:03.880"/>
+      </par>
+      <par id="par119">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:04.730" clipEnd="0:00:12.530"/>
+      </par>
+      <par id="par120">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:12.880" clipEnd="0:00:21.180"/>
+      </par>
+      <par id="par121" class="section">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:22.230" clipEnd="0:00:23.330"/>
+      </par>
+      <par id="par122">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:24.180" clipEnd="0:00:31.040"/>
+      </par>
+      <par id="par123">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:31.740" clipEnd="0:00:48.890"/>
+      </par>
+      <par id="par124">
+        <audio src="tts000001-0005.mp3" clipBegin="0:00:49.590" clipEnd="0:01:07.840"/>
+      </par>
+      <par id="par125" class="section">
+        <audio src="tts000001-0005.mp3" clipBegin="0:01:08.890" clipEnd="0:01:10.010"/>
+      </par>
+      <par id="par126">
+        <audio src="tts000001-0005.mp3" clipBegin="0:01:10.860" clipEnd="0:01:30.690"/>
+      </par>
+      <par id="par127">
+        <audio src="tts000001-0005.mp3" clipBegin="0:01:31.390" clipEnd="0:01:49.960"/>
+      </par>
+      <par id="par128" class="section">
+        <audio src="tts000001-0005.mp3" clipBegin="0:01:51.010" clipEnd="0:01:52.120"/>
+      </par>
+      <par id="par129">
+        <audio src="tts000001-0005.mp3" clipBegin="0:01:52.970" clipEnd="0:02:10.050"/>
+      </par>
+      <par id="par130" class="chapter">
+        <audio src="tts000001-0006.mp3" clipBegin="0:00:00.500" clipEnd="0:00:01.700"/>
+      </par>
+      <par id="par131">
+        <audio src="tts000001-0006.mp3" clipBegin="0:00:02.550" clipEnd="0:00:35.580"/>
+      </par>
+      <par id="par132">
+        <audio src="tts000001-0006.mp3" clipBegin="0:00:35.930" clipEnd="0:00:52.890"/>
+      </par>
+      <par id="par133" class="chapter">
+        <audio src="tts000001-0007.mp3" clipBegin="0:00:00.500" clipEnd="0:00:01.670"/>
+      </par>
+      <par id="par134">
+        <audio src="tts000001-0007.mp3" clipBegin="0:00:02.520" clipEnd="0:00:14.520"/>
+      </par>
+      <par id="par135">
+        <audio src="tts000001-0007.mp3" clipBegin="0:00:15.220" clipEnd="0:00:36.870"/>
+      </par>
+      <par id="par136">
+        <audio src="tts000001-0007.mp3" clipBegin="0:00:37.570" clipEnd="0:01:01.710"/>
+      </par>
+      <par id="par137" class="chapter">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:00.500" clipEnd="0:00:01.670"/>
+      </par>
+      <par id="par138">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:02.520" clipEnd="0:00:11.800"/>
+      </par>
+      <par id="par139">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:12.500" clipEnd="0:00:26.520"/>
+      </par>
+      <par id="par140">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:26.870" clipEnd="0:00:30.380"/>
+      </par>
+      <par id="par141">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:31.080" clipEnd="0:00:34.560"/>
+      </par>
+      <par id="par142">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:35.260" clipEnd="0:00:36.300"/>
+      </par>
+      <par id="par143">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:37.000" clipEnd="0:00:38.790"/>
+      </par>
+      <par id="par144">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:39.490" clipEnd="0:00:40.640"/>
+      </par>
+      <par id="par145">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:41.340" clipEnd="0:00:43.270"/>
+      </par>
+      <par id="par146">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:43.970" clipEnd="0:00:44.950"/>
+      </par>
+      <par id="par147">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:45.650" clipEnd="0:00:48.030"/>
+      </par>
+      <par id="par148">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:48.730" clipEnd="0:00:49.660"/>
+      </par>
+      <par id="par149">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:50.360" clipEnd="0:00:51.940"/>
+      </par>
+      <par id="par150">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:52.640" clipEnd="0:00:53.630"/>
+      </par>
+      <par id="par151">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:54.330" clipEnd="0:00:58.110"/>
+      </par>
+      <par id="par152">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:58.460" clipEnd="0:00:59.280"/>
+      </par>
+      <par id="par153">
+        <audio src="tts000001-0008.mp3" clipBegin="0:00:59.980" clipEnd="0:01:01.050"/>
+      </par>
+      <par id="par154">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:01.750" clipEnd="0:01:04.980"/>
+      </par>
+      <par id="par155">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:05.330" clipEnd="0:01:10.190"/>
+      </par>
+      <par id="par156">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:10.890" clipEnd="0:01:11.720"/>
+      </par>
+      <par id="par157">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:12.420" clipEnd="0:01:17.020"/>
+      </par>
+      <par id="par158">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:17.370" clipEnd="0:01:18.140"/>
+      </par>
+      <par id="par159">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:18.840" clipEnd="0:01:19.730"/>
+      </par>
+      <par id="par160">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:20.430" clipEnd="0:01:24.420"/>
+      </par>
+      <par id="par161">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:25.120" clipEnd="0:01:26.070"/>
+      </par>
+      <par id="par162">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:26.770" clipEnd="0:01:29.140"/>
+      </par>
+      <par id="par163">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:29.840" clipEnd="0:01:31.030"/>
+      </par>
+      <par id="par164">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:31.730" clipEnd="0:01:34.500"/>
+      </par>
+      <par id="par165">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:35.200" clipEnd="0:01:36.390"/>
+      </par>
+      <par id="par166">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:37.090" clipEnd="0:01:41.140"/>
+      </par>
+      <par id="par167">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:41.840" clipEnd="0:01:42.610"/>
+      </par>
+      <par id="par168">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:43.310" clipEnd="0:01:45.210"/>
+      </par>
+      <par id="par169">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:45.910" clipEnd="0:01:48.510"/>
+      </par>
+      <par id="par170" class="close">
+        <audio src="tts000001-0008.mp3" clipBegin="0:01:49.560" clipEnd="0:01:54.540"/>
+      </par>
+    </seq>
+  </body>
+</smil>

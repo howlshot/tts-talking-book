@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN" "ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1" xml:lang="en">
+  <head>
+    <meta name="dtb:uid" content="sample-tts000001"/>
+    <meta name="dtb:depth" content="2"/>
+    <meta name="dtb:generator" content="Studio Chingie TTS Talking Book 0.1"/>
+    <meta name="dtb:totalPageCount" content="0"/>
+    <meta name="dtb:maxPageNumber" content="0"/>
+  </head>
+  <docTitle>
+    <text>The Constitution of the United States of America, 1787</text>
+    <audio src="tts000001hdgs.mp3" clipBegin="0:00:00.500" clipEnd="0:00:05.000"/>
+  </docTitle>
+  <docAuthor>
+    <text>by United States Constitutional Convention (1787)</text>
+    <audio src="tts000001hdgs.mp3" clipBegin="0:00:06.200" clipEnd="0:00:10.020"/>
+  </docAuthor>
+  <navMap>
+    <navPoint id="nav1" class="title/author" playOrder="1">
+      <navLabel>
+        <text>The Constitution of the United States of America, 1787</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:00:00.500" clipEnd="0:00:05.000"/>
+      </navLabel>
+      <content src="tts000001.smil#par1"/>
+    </navPoint>
+    <navPoint id="nav2" class="prelimitem" playOrder="2">
+      <navLabel>
+        <text>Preamble</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:00:11.220" clipEnd="0:00:12.140"/>
+      </navLabel>
+      <content src="tts000001.smil#par2"/>
+    </navPoint>
+    <navPoint id="nav3" class="chapter" playOrder="3">
+      <navLabel>
+        <text>Article I</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:00:13.340" clipEnd="0:00:14.410"/>
+      </navLabel>
+      <content src="tts000001.smil#par4"/>
+      <navPoint id="nav4" class="section" playOrder="4">
+        <navLabel>
+          <text>Section 1</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:15.610" clipEnd="0:00:16.680"/>
+        </navLabel>
+        <content src="tts000001.smil#par5"/>
+      </navPoint>
+      <navPoint id="nav5" class="section" playOrder="5">
+        <navLabel>
+          <text>Section 2</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:17.880" clipEnd="0:00:18.980"/>
+        </navLabel>
+        <content src="tts000001.smil#par7"/>
+      </navPoint>
+      <navPoint id="nav6" class="section" playOrder="6">
+        <navLabel>
+          <text>Section 3</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:20.180" clipEnd="0:00:21.300"/>
+        </navLabel>
+        <content src="tts000001.smil#par15"/>
+      </navPoint>
+      <navPoint id="nav7" class="section" playOrder="7">
+        <navLabel>
+          <text>Section 4</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:22.500" clipEnd="0:00:23.600"/>
+        </navLabel>
+        <content src="tts000001.smil#par27"/>
+      </navPoint>
+      <navPoint id="nav8" class="section" playOrder="8">
+        <navLabel>
+          <text>Section 5</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:24.800" clipEnd="0:00:25.890"/>
+        </navLabel>
+        <content src="tts000001.smil#par30"/>
+      </navPoint>
+      <navPoint id="nav9" class="section" playOrder="9">
+        <navLabel>
+          <text>Section 6</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:27.090" clipEnd="0:00:28.240"/>
+        </navLabel>
+        <content src="tts000001.smil#par35"/>
+      </navPoint>
+      <navPoint id="nav10" class="section" playOrder="10">
+        <navLabel>
+          <text>Section 7</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:29.440" clipEnd="0:00:30.610"/>
+        </navLabel>
+        <content src="tts000001.smil#par39"/>
+      </navPoint>
+      <navPoint id="nav11" class="section" playOrder="11">
+        <navLabel>
+          <text>Section 8</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:31.810" clipEnd="0:00:32.910"/>
+        </navLabel>
+        <content src="tts000001.smil#par47"/>
+      </navPoint>
+      <navPoint id="nav12" class="section" playOrder="12">
+        <navLabel>
+          <text>Section 9</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:34.110" clipEnd="0:00:35.240"/>
+        </navLabel>
+        <content src="tts000001.smil#par66"/>
+      </navPoint>
+      <navPoint id="nav13" class="section" playOrder="13">
+        <navLabel>
+          <text>Section 10</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:36.440" clipEnd="0:00:37.550"/>
+        </navLabel>
+        <content src="tts000001.smil#par75"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav14" class="chapter" playOrder="14">
+      <navLabel>
+        <text>Article Ii</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:00:38.750" clipEnd="0:00:39.830"/>
+      </navLabel>
+      <content src="tts000001.smil#par79"/>
+      <navPoint id="nav15" class="section" playOrder="15">
+        <navLabel>
+          <text>Section 1</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:41.030" clipEnd="0:00:42.100"/>
+        </navLabel>
+        <content src="tts000001.smil#par80"/>
+      </navPoint>
+      <navPoint id="nav16" class="section" playOrder="16">
+        <navLabel>
+          <text>Section 2</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:43.300" clipEnd="0:00:44.400"/>
+        </navLabel>
+        <content src="tts000001.smil#par96"/>
+      </navPoint>
+      <navPoint id="nav17" class="section" playOrder="17">
+        <navLabel>
+          <text>Section 3</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:45.600" clipEnd="0:00:46.720"/>
+        </navLabel>
+        <content src="tts000001.smil#par100"/>
+      </navPoint>
+      <navPoint id="nav18" class="section" playOrder="18">
+        <navLabel>
+          <text>Section 4</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:47.920" clipEnd="0:00:49.030"/>
+        </navLabel>
+        <content src="tts000001.smil#par102"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav19" class="chapter" playOrder="19">
+      <navLabel>
+        <text>Article Iii</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:00:50.230" clipEnd="0:00:51.360"/>
+      </navLabel>
+      <content src="tts000001.smil#par104"/>
+      <navPoint id="nav20" class="section" playOrder="20">
+        <navLabel>
+          <text>Section 1</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:52.560" clipEnd="0:00:53.630"/>
+        </navLabel>
+        <content src="tts000001.smil#par105"/>
+      </navPoint>
+      <navPoint id="nav21" class="section" playOrder="21">
+        <navLabel>
+          <text>Section 2</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:54.830" clipEnd="0:00:55.930"/>
+        </navLabel>
+        <content src="tts000001.smil#par108"/>
+      </navPoint>
+      <navPoint id="nav22" class="section" playOrder="22">
+        <navLabel>
+          <text>Section 3</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:00:57.130" clipEnd="0:00:58.250"/>
+        </navLabel>
+        <content src="tts000001.smil#par113"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav23" class="chapter" playOrder="23">
+      <navLabel>
+        <text>Article Iv</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:00:59.450" clipEnd="0:01:00.560"/>
+      </navLabel>
+      <content src="tts000001.smil#par117"/>
+      <navPoint id="nav24" class="section" playOrder="24">
+        <navLabel>
+          <text>Section 1</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:01:01.760" clipEnd="0:01:02.830"/>
+        </navLabel>
+        <content src="tts000001.smil#par118"/>
+      </navPoint>
+      <navPoint id="nav25" class="section" playOrder="25">
+        <navLabel>
+          <text>Section 2</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:01:04.030" clipEnd="0:01:05.130"/>
+        </navLabel>
+        <content src="tts000001.smil#par121"/>
+      </navPoint>
+      <navPoint id="nav26" class="section" playOrder="26">
+        <navLabel>
+          <text>Section 3</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:01:06.330" clipEnd="0:01:07.450"/>
+        </navLabel>
+        <content src="tts000001.smil#par125"/>
+      </navPoint>
+      <navPoint id="nav27" class="section" playOrder="27">
+        <navLabel>
+          <text>Section 4</text>
+          <audio src="tts000001hdgs.mp3" clipBegin="0:01:08.650" clipEnd="0:01:09.760"/>
+        </navLabel>
+        <content src="tts000001.smil#par128"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="nav28" class="chapter" playOrder="28">
+      <navLabel>
+        <text>Article V</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:01:10.960" clipEnd="0:01:12.160"/>
+      </navLabel>
+      <content src="tts000001.smil#par130"/>
+    </navPoint>
+    <navPoint id="nav29" class="chapter" playOrder="29">
+      <navLabel>
+        <text>Article Vi</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:01:13.360" clipEnd="0:01:14.530"/>
+      </navLabel>
+      <content src="tts000001.smil#par133"/>
+    </navPoint>
+    <navPoint id="nav30" class="chapter" playOrder="30">
+      <navLabel>
+        <text>Article Vii</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:01:15.730" clipEnd="0:01:16.900"/>
+      </navLabel>
+      <content src="tts000001.smil#par137"/>
+    </navPoint>
+    <navPoint id="nav31" class="close" playOrder="31">
+      <navLabel>
+        <text>End of The Constitution of the United States of America, 1787</text>
+        <audio src="tts000001hdgs.mp3" clipBegin="0:01:18.100" clipEnd="0:01:23.080"/>
+      </navLabel>
+      <content src="tts000001.smil#par170"/>
+    </navPoint>
+  </navMap>
+</ncx>

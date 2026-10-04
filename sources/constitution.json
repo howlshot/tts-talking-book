@@ -1,0 +1,17 @@
+{
+  "source": "sources/constitution-pg5.epub",
+  "download": "https://www.gutenberg.org/ebooks/5.epub.noimages",
+  "start": "THE CONSTITUTION OF THE UNITED STATES",
+  "stop": "THE FULL PROJECT GUTENBERG",
+  "pid": "tts000001",
+  "uid": "sample-tts000001",
+  "title": "The Constitution of the United States of America, 1787",
+  "author": "United States Constitutional Convention (1787)",
+  "author_phrase": "by",
+  "spoken_author": "the Constitutional Convention of 1787",
+  "source_date": "1787",
+  "subject": "Government",
+  "description": "Sample digital talking book generated with synthetic speech to demonstrate automated DTB construction.",
+  "preliminary_heading": "Preamble",
+  "lexicon": "sources/constitution.lexicon.json"
+}

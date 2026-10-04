@@ -1,0 +1,56 @@
+{
+  "engine": "whisper.cpp ggml-small.en.bin",
+  "words": 4575,
+  "errors": 64,
+  "wer": 0.014,
+  "tracks": [
+    {
+      "file": "tts000001-0001.mp3",
+      "words": 73,
+      "errors": 2,
+      "wer": 0.0274
+    },
+    {
+      "file": "tts000001-0002.mp3",
+      "words": 2270,
+      "errors": 23,
+      "wer": 0.0101
+    },
+    {
+      "file": "tts000001-0003.mp3",
+      "words": 1025,
+      "errors": 4,
+      "wer": 0.0039
+    },
+    {
+      "file": "tts000001-0004.mp3",
+      "words": 377,
+      "errors": 0,
+      "wer": 0.0
+    },
+    {
+      "file": "tts000001-0005.mp3",
+      "words": 330,
+      "errors": 0,
+      "wer": 0.0
+    },
+    {
+      "file": "tts000001-0006.mp3",
+      "words": 145,
+      "errors": 5,
+      "wer": 0.0345
+    },
+    {
+      "file": "tts000001-0007.mp3",
+      "words": 156,
+      "errors": 2,
+      "wer": 0.0128
+    },
+    {
+      "file": "tts000001-0008.mp3",
+      "words": 199,
+      "errors": 28,
+      "wer": 0.1407
+    }
+  ]
+}

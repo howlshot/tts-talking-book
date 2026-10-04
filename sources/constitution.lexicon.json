@@ -1,0 +1,27 @@
+{
+  "note": "Ordered regex rules applied before synthesis. Every hit is logged in the build report for QA review.",
+  "rules": [
+    {"pattern": "Go\\. WASHINGTON—\\s*Presid\\.", "say": "George Washington, President,"},
+    {"pattern": "Dan of St Thos\\. Jenifer", "say": "Daniel of Saint Thomas Jenifer"},
+    {"pattern": "\\bB Franklin\\b", "say": "Benjamin Franklin"},
+    {"pattern": "\\bJ\\. Rutledge\\b", "say": "John Rutledge"},
+    {"pattern": "\\bWm\\.", "say": "William"},
+    {"pattern": "\\bSaml\\.", "say": "Samuel"},
+    {"pattern": "\\bWil:", "say": "William"},
+    {"pattern": "\\bJona:", "say": "Jonathan"},
+    {"pattern": "\\bJaco:", "say": "Jacob"},
+    {"pattern": "\\bGeo[.:]", "say": "George"},
+    {"pattern": "\\bThos\\.?", "say": "Thomas"},
+    {"pattern": "\\bRobt\\b", "say": "Robert"},
+    {"pattern": "\\bGouv\\b", "say": "Gouverneur"},
+    {"pattern": "\\bDanl\\b", "say": "Daniel"},
+    {"pattern": "\\bRich'd\\b", "say": "Richard"},
+    {"pattern": "\\bHu\\b", "say": "Hugh"},
+    {"pattern": "\\bAbr\\b", "say": "Abraham"},
+    {"pattern": "\\bjun\\b", "say": "junior"},
+    {"pattern": "\\bJr\\.", "say": "Junior"},
+    {"pattern": "\\bMchenry\\b", "say": "McHenry"},
+    {"pattern": "\\bchuse\\b", "say": "choose"},
+    {"pattern": "—", "say": ", "}
+  ]
+}
