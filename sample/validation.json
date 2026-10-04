@@ -117,7 +117,7 @@
   {
     "check": "dtb:totalTime equals the summed SMIL audio within 1 s",
     "ok": true,
-    "detail": "0:27:27.930 vs 1647.9 s"
+    "detail": "0:27:27.950 vs 1648.0 s"
   },
   {
     "check": "Manifest lists every file except the checksum file",

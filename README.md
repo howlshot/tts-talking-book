@@ -10,18 +10,18 @@ The voice is Kokoro-82M (Apache 2.0). It runs on a laptop CPU, with no per-use f
 
 ## The sample
 
-The U.S. Constitution (public domain, from Project Gutenberg), built in under 5 minutes:
+The U.S. Constitution (public domain, from Project Gutenberg), built in about 5 minutes:
 
 | | |
 |---|---|
 | Narration | 29.6 minutes in 8 audio files, plus a headings file |
 | Navigation | 31 points: title, Preamble, 7 Articles, 21 Sections, closing |
 | Synchronization | 170 SMIL clips |
-| Speed | 8.4× faster than real time, CPU only (Apple M5 Max) |
+| Speed | 7.4× faster than real time, CPU only (Apple M5 Max) |
 | Checks | 30 of 30 pass |
 | Clip timing | All 203 clips (170 in the book, 33 heading labels) within the Spec 1203 windows, measured from the audio |
 | Loudness | -18.1 to -18.4 LUFS on every file (EBU R128) |
-| Intelligibility | 1.4% word error rate when the audio is transcribed back |
+| Intelligibility | 1.2% word error rate when the audio is transcribed back |
 
 ## How it works
 

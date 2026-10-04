@@ -8,46 +8,46 @@
   "smil_pars": 170,
   "nav_points": 31,
   "audio_seconds": 1773.0,
-  "total_time": "0:27:27.930",
-  "synthesis_seconds": 210.4,
-  "realtime_factor": 8.4,
-  "build_seconds": 283.8,
+  "total_time": "0:27:27.950",
+  "synthesis_seconds": 238.7,
+  "realtime_factor": 7.4,
+  "build_seconds": 320.8,
   "loudness": {
     "tts000001-0001.wav": {
       "integrated_lufs": -18.24,
-      "true_peak_dbtp": -1.48
+      "true_peak_dbtp": -1.46
     },
     "tts000001-0002.wav": {
       "integrated_lufs": -18.14,
-      "true_peak_dbtp": -1.43
+      "true_peak_dbtp": -1.44
     },
     "tts000001-0003.wav": {
       "integrated_lufs": -18.14,
       "true_peak_dbtp": -1.46
     },
     "tts000001-0004.wav": {
-      "integrated_lufs": -18.17,
-      "true_peak_dbtp": -1.48
+      "integrated_lufs": -18.16,
+      "true_peak_dbtp": -1.46
     },
     "tts000001-0005.wav": {
-      "integrated_lufs": -18.26,
-      "true_peak_dbtp": -1.45
-    },
-    "tts000001-0006.wav": {
-      "integrated_lufs": -18.27,
-      "true_peak_dbtp": -1.48
-    },
-    "tts000001-0007.wav": {
-      "integrated_lufs": -18.3,
+      "integrated_lufs": -18.25,
       "true_peak_dbtp": -1.47
     },
+    "tts000001-0006.wav": {
+      "integrated_lufs": -18.28,
+      "true_peak_dbtp": -1.46
+    },
+    "tts000001-0007.wav": {
+      "integrated_lufs": -18.29,
+      "true_peak_dbtp": -1.48
+    },
     "tts000001-0008.wav": {
-      "integrated_lufs": -18.13,
-      "true_peak_dbtp": -1.32
+      "integrated_lufs": -18.14,
+      "true_peak_dbtp": -1.44
     },
     "tts000001hdgs.wav": {
-      "integrated_lufs": -18.37,
-      "true_peak_dbtp": -1.46
+      "integrated_lufs": -18.35,
+      "true_peak_dbtp": -1.48
     }
   },
   "lexicon_hits": [

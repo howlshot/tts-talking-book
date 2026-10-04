@@ -1,8 +1,8 @@
 {
   "engine": "whisper.cpp ggml-small.en.bin",
   "words": 4575,
-  "errors": 64,
-  "wer": 0.014,
+  "errors": 57,
+  "wer": 0.0125,
   "tracks": [
     {
       "file": "tts000001-0001.mp3",
@@ -13,8 +13,8 @@
     {
       "file": "tts000001-0002.mp3",
       "words": 2270,
-      "errors": 23,
-      "wer": 0.0101
+      "errors": 19,
+      "wer": 0.0084
     },
     {
       "file": "tts000001-0003.mp3",
@@ -49,8 +49,8 @@
     {
       "file": "tts000001-0008.mp3",
       "words": 199,
-      "errors": 28,
-      "wer": 0.1407
+      "errors": 25,
+      "wer": 0.1256
     }
   ]
 }

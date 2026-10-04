@@ -371,11 +371,11 @@
       "audio": "tts000001-0002.mp3",
       "speech": [
         255.65,
-        256.45
+        256.46
       ],
       "clip": [
         255.55,
-        256.65
+        256.66
       ],
       "cls": "section",
       "said": "Section 4."
@@ -384,12 +384,12 @@
       "id": "par28",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        257.6,
-        274.24
+        257.61,
+        274.25
       ],
       "clip": [
-        257.5,
-        274.44
+        257.51,
+        274.45
       ],
       "cls": null,
       "said": "The Times, Places and Manner of holding Elections for Senators and Representatives, shall be prescribed in each State by the Legislature thereof; but the Congress may at any time by Law make or alter such Regulations, except as to the Places of chusing Senators."
@@ -398,12 +398,12 @@
       "id": "par29",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        275.24,
-        284.26
+        275.25,
+        284.27
       ],
       "clip": [
-        275.14,
-        284.46
+        275.15,
+        284.47
       ],
       "cls": null,
       "said": "The Congress shall assemble at least once in every Year, and such Meeting shall be on the first Monday in December, unless they shall by law appoint a different Day."
@@ -412,12 +412,12 @@
       "id": "par30",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        285.61,
-        286.4
+        285.62,
+        286.41
       ],
       "clip": [
-        285.51,
-        286.6
+        285.52,
+        286.61
       ],
       "cls": "section",
       "said": "Section 5."
@@ -426,12 +426,12 @@
       "id": "par31",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        287.55,
-        308.36
+        287.56,
+        308.37
       ],
       "clip": [
-        287.45,
-        308.56
+        287.46,
+        308.57
       ],
       "cls": null,
       "said": "Each House shall be the Judge of the Elections, Returns and Qualifications of its own Members, and a Majority of each shall constitute a Quorum to do Business; but a smaller Number may adjourn from day to day, and may be authorized to compel the Attendance of absent Members, in such Manner, and under such Penalties as each House may provide."
@@ -440,12 +440,12 @@
       "id": "par32",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        309.36,
-        318.76
+        309.37,
+        318.77
       ],
       "clip": [
-        309.26,
-        318.96
+        309.27,
+        318.97
       ],
       "cls": null,
       "said": "Each house may determine the Rules of its Proceedings, punish its Members for disorderly Behavior, and, with the Concurrence of two-thirds, expel a Member."
@@ -454,12 +454,12 @@
       "id": "par33",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        319.76,
-        338.0
+        319.77,
+        338.01
       ],
       "clip": [
-        319.66,
-        338.2
+        319.67,
+        338.21
       ],
       "cls": null,
       "said": "Each house shall keep a Journal of its Proceedings, and from time to time publish the same, excepting such Parts as may in their Judgment require Secrecy; and the Yeas and Nays of the Members of either House on any question shall, at the Desire of one fifth of those Present, be entered on the Journal."
@@ -468,12 +468,12 @@
       "id": "par34",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        339.0,
-        349.41
+        339.01,
+        349.39
       ],
       "clip": [
-        338.9,
-        349.61
+        338.91,
+        349.59
       ],
       "cls": null,
       "said": "Neither House, during the Session of Congress, shall, without the Consent of the other, adjourn for more than three days, nor to any other Place than that in which the two Houses shall be sitting."
@@ -482,12 +482,12 @@
       "id": "par35",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        350.76,
-        351.61
+        350.74,
+        351.59
       ],
       "clip": [
-        350.66,
-        351.81
+        350.64,
+        351.79
       ],
       "cls": "section",
       "said": "Section 6."
@@ -496,12 +496,12 @@
       "id": "par36",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        352.76,
-        362.08
+        352.74,
+        362.06
       ],
       "clip": [
-        352.66,
-        362.28
+        352.64,
+        362.26
       ],
       "cls": null,
       "said": "The Senators and Representatives shall receive a Compensation for their Services, to be ascertained by Law, and paid out of the Treasury of the United States."
@@ -510,12 +510,12 @@
       "id": "par37",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        362.73,
-        380.6
+        362.71,
+        380.58
       ],
       "clip": [
-        362.63,
-        380.8
+        362.61,
+        380.78
       ],
       "cls": null,
       "said": "They shall in all Cases, except Treason, Felony and Breach of the Peace, be privileged from Arrest during their Attendance at the Session of their respective Houses, and in going to and returning from the same; and for any Speech or Debate in either House, they shall not be questioned in any other Place."
@@ -524,12 +524,12 @@
       "id": "par38",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        381.6,
-        403.66
+        381.58,
+        403.64
       ],
       "clip": [
-        381.5,
-        403.86
+        381.48,
+        403.84
       ],
       "cls": null,
       "said": "No Senator or Representative shall, during the Time for which he was elected, be appointed to any civil Office under the authority of the United States, which shall have been created, or the Emoluments whereof shall have been increased during such time; and no Person holding any Office under the United States, shall be a Member of either House during his Continuance in Office."
@@ -538,12 +538,12 @@
       "id": "par39",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        405.01,
-        405.88
+        404.99,
+        405.86
       ],
       "clip": [
-        404.91,
-        406.08
+        404.89,
+        406.06
       ],
       "cls": "section",
       "said": "Section 7."
@@ -552,12 +552,12 @@
       "id": "par40",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        407.03,
-        415.99
+        407.01,
+        415.97
       ],
       "clip": [
-        406.93,
-        416.19
+        406.91,
+        416.17
       ],
       "cls": null,
       "said": "All Bills for raising Revenue shall originate in the House of Representatives; but the Senate may propose or concur with Amendments as on other Bills."
@@ -566,12 +566,12 @@
       "id": "par41",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        416.99,
-        425.92
+        416.97,
+        425.9
       ],
       "clip": [
-        416.89,
-        426.12
+        416.87,
+        426.1
       ],
       "cls": null,
       "said": "Every Bill which shall have passed the House of Representatives and the Senate, shall, before it become a Law, be presented to the President of the United States;"
@@ -580,12 +580,12 @@
       "id": "par42",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        426.57,
-        438.74
+        426.55,
+        438.73
       ],
       "clip": [
-        426.47,
-        438.94
+        426.45,
+        438.93
       ],
       "cls": null,
       "said": "If he approve he shall sign it, but if not he shall return it, with his Objections to that House in which it shall have originated, who shall enter the Objections at large on their Journal, and proceed to reconsider it."
@@ -594,12 +594,12 @@
       "id": "par43",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        439.39,
-        454.42
+        439.38,
+        454.41
       ],
       "clip": [
-        439.29,
-        454.62
+        439.28,
+        454.61
       ],
       "cls": null,
       "said": "If after such Reconsideration two thirds of that house shall agree to pass the Bill, it shall be sent, together with the Objections, to the other House, by which it shall likewise be reconsidered, and if approved by two thirds of that House, it shall become a law."
@@ -608,12 +608,12 @@
       "id": "par44",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        455.07,
-        467.3
+        455.06,
+        467.29
       ],
       "clip": [
-        454.97,
-        467.5
+        454.96,
+        467.49
       ],
       "cls": null,
       "said": "But in all such Cases the Votes of both Houses shall be determined by Yeas and Nays, and the Names of the Persons voting for and against the Bill shall be entered on the Journal of each House respectively."
@@ -622,12 +622,12 @@
       "id": "par45",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        467.95,
-        485.12
+        467.94,
+        485.11
       ],
       "clip": [
-        467.85,
-        485.32
+        467.84,
+        485.31
       ],
       "cls": null,
       "said": "If any Bill shall not be returned by the President within ten Days (Sundays excepted) after it shall have been presented to him, the Same shall be a Law, in like Manner as if he had signed it, unless the Congress by their Adjournment prevent its Return, in which case it shall not be a Law."
@@ -636,12 +636,12 @@
       "id": "par46",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        486.12,
-        512.29
+        486.11,
+        512.28
       ],
       "clip": [
-        486.02,
-        512.49
+        486.01,
+        512.48
       ],
       "cls": null,
       "said": "Every Order, Resolution, or Vote to which the Concurrence of the Senate and House of Representatives may be necessary (except on a question of Adjournment) shall be presented to the President of the United States; and before the Same shall take Effect, shall be approved by him, or being disapproved by him, shall be repassed by two thirds of the Senate and House of Representatives, according to the Rules and Limitations prescribed in the Case of a Bill."
@@ -650,12 +650,12 @@
       "id": "par47",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        513.64,
-        514.44
+        513.63,
+        514.43
       ],
       "clip": [
-        513.54,
-        514.64
+        513.53,
+        514.63
       ],
       "cls": "section",
       "said": "Section 8."
@@ -664,12 +664,12 @@
       "id": "par48",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        515.59,
-        532.49
+        515.58,
+        532.48
       ],
       "clip": [
-        515.49,
-        532.69
+        515.48,
+        532.68
       ],
       "cls": null,
       "said": "The Congress shall have Power to lay and collect Taxes, Duties, Imposts and Excises, to pay the Debts and provide for the common Defence and general Welfare of the United States; but all Duties, Imposts and Excises shall be uniform throughout the United States;"
@@ -678,12 +678,12 @@
       "id": "par49",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        533.49,
-        536.22
+        533.48,
+        536.21
       ],
       "clip": [
-        533.39,
-        536.42
+        533.38,
+        536.41
       ],
       "cls": null,
       "said": "To borrow Money on the credit of the United States;"
@@ -692,12 +692,12 @@
       "id": "par50",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        537.22,
-        542.58
+        537.21,
+        542.57
       ],
       "clip": [
-        537.12,
-        542.78
+        537.11,
+        542.77
       ],
       "cls": null,
       "said": "To regulate Commerce with foreign Nations, and among the several States, and with the Indian Tribes;"
@@ -706,12 +706,12 @@
       "id": "par51",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        543.58,
-        551.27
+        543.57,
+        551.26
       ],
       "clip": [
-        543.48,
-        551.47
+        543.47,
+        551.46
       ],
       "cls": null,
       "said": "To establish an uniform Rule of Naturalization, and uniform Laws on the subject of Bankruptcies throughout the United States;"
@@ -720,12 +720,12 @@
       "id": "par52",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        552.27,
-        558.37
+        552.26,
+        558.36
       ],
       "clip": [
-        552.17,
-        558.57
+        552.16,
+        558.56
       ],
       "cls": null,
       "said": "To coin Money, regulate the Value thereof, and of foreign Coin, and fix the Standard of Weights and Measures;"
@@ -734,12 +734,12 @@
       "id": "par53",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        559.37,
-        564.88
+        559.36,
+        564.87
       ],
       "clip": [
-        559.27,
-        565.08
+        559.26,
+        565.07
       ],
       "cls": null,
       "said": "To provide for the Punishment of counterfeiting the Securities and current Coin of the United States;"
@@ -748,12 +748,12 @@
       "id": "par54",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        565.88,
-        568.48
+        565.87,
+        568.47
       ],
       "clip": [
-        565.78,
-        568.68
+        565.77,
+        568.67
       ],
       "cls": null,
       "said": "To establish Post Offices and Post Roads;"
@@ -762,12 +762,12 @@
       "id": "par55",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        569.48,
-        580.13
+        569.47,
+        580.12
       ],
       "clip": [
-        569.38,
-        580.33
+        569.37,
+        580.32
       ],
       "cls": null,
       "said": "To promote the Progress of Science and useful Arts, by securing for limited Times to Authors and Inventors the exclusive Right to their respective Writings and Discoveries;"
@@ -776,12 +776,12 @@
       "id": "par56",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        581.13,
-        583.95
+        581.12,
+        583.94
       ],
       "clip": [
-        581.03,
-        584.15
+        581.02,
+        584.14
       ],
       "cls": null,
       "said": "To constitute Tribunals inferior to the supreme Court;"
@@ -790,12 +790,12 @@
       "id": "par57",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        584.95,
-        591.5
+        584.94,
+        591.49
       ],
       "clip": [
-        584.85,
-        591.7
+        584.84,
+        591.69
       ],
       "cls": null,
       "said": "To define and punish Piracies and Felonies committed on the high Seas, and Offenses against the Law of Nations;"
@@ -804,12 +804,12 @@
       "id": "par58",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        592.5,
-        598.97
+        592.49,
+        598.96
       ],
       "clip": [
-        592.4,
-        599.17
+        592.39,
+        599.16
       ],
       "cls": null,
       "said": "To declare War, grant Letters of Marque and Reprisal, and make Rules concerning Captures on Land and Water;"
@@ -818,12 +818,12 @@
       "id": "par59",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        599.97,
-        606.68
+        599.96,
+        606.67
       ],
       "clip": [
-        599.87,
-        606.88
+        599.86,
+        606.87
       ],
       "cls": null,
       "said": "To raise and support Armies, but no Appropriation of Money to that Use shall be for a longer term than two Years;"
@@ -832,12 +832,12 @@
       "id": "par60",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        607.68,
-        609.44
+        607.67,
+        609.43
       ],
       "clip": [
-        607.58,
-        609.64
+        607.57,
+        609.63
       ],
       "cls": null,
       "said": "To provide and maintain a Navy;"
@@ -846,12 +846,12 @@
       "id": "par61",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        610.44,
-        614.93
+        610.43,
+        614.92
       ],
       "clip": [
-        610.34,
-        615.13
+        610.33,
+        615.12
       ],
       "cls": null,
       "said": "To make Rules for the Government and Regulation of the land and naval Forces;"
@@ -860,12 +860,12 @@
       "id": "par62",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        615.93,
-        622.98
+        615.92,
+        622.97
       ],
       "clip": [
-        615.83,
-        623.18
+        615.82,
+        623.17
       ],
       "cls": null,
       "said": "To provide for calling forth the Militia to execute the Laws of the Union, suppress Insurrections and repel Invasions;"
@@ -874,12 +874,12 @@
       "id": "par63",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        623.98,
-        642.89
+        623.97,
+        642.88
       ],
       "clip": [
-        623.88,
-        643.09
+        623.87,
+        643.08
       ],
       "cls": null,
       "said": "To provide for organizing, arming, and disciplining, the Militia, and for governing such Part of them as may be employed in the Service of the United States, reserving to the States respectively, the Appointment of the Officers, and the Authority of training the militia according to the discipline prescribed by Congress;"
@@ -888,12 +888,12 @@
       "id": "par64",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        643.89,
-        671.38
+        643.88,
+        671.37
       ],
       "clip": [
-        643.79,
-        671.58
+        643.78,
+        671.57
       ],
       "cls": null,
       "said": "To exercise exclusive Legislation in all Cases whatsoever, over such District (not exceeding ten Miles square) as may, by Cession of particular States, and the Acceptance of Congress, become the Seat of the Government of the United States, and to exercise like Authority over all Places purchased by the Consent of the Legislature of the State in which the Same shall be, for the Erection of Forts, Magazines, Arsenals, Dockyards, and other needful Buildings;, And"
@@ -902,12 +902,12 @@
       "id": "par65",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        672.38,
-        686.64
+        672.37,
+        686.63
       ],
       "clip": [
-        672.28,
-        686.84
+        672.27,
+        686.83
       ],
       "cls": null,
       "said": "To make all Laws which shall be necessary and proper for carrying into Execution the foregoing Powers, and all other Powers vested by this Constitution in the Government of the United States, or in any Department or Officer thereof."
@@ -916,12 +916,12 @@
       "id": "par66",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        687.99,
-        688.82
+        687.98,
+        688.81
       ],
       "clip": [
-        687.89,
-        689.02
+        687.88,
+        689.01
       ],
       "cls": "section",
       "said": "Section 9."
@@ -930,12 +930,12 @@
       "id": "par67",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        689.97,
-        708.11
+        689.96,
+        708.1
       ],
       "clip": [
-        689.87,
-        708.31
+        689.86,
+        708.3
       ],
       "cls": null,
       "said": "The Migration or Importation of such Persons as any of the States now existing shall think proper to admit, shall not be prohibited by the Congress prior to the Year one thousand eight hundred and eight, but a Tax or Duty may be imposed on such Importation, not exceeding ten dollars for each Person."
@@ -944,12 +944,12 @@
       "id": "par68",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        709.11,
-        718.1
+        709.1,
+        718.09
       ],
       "clip": [
-        709.01,
-        718.3
+        709.0,
+        718.29
       ],
       "cls": null,
       "said": "The Privilege of the Writ of Habeas Corpus shall not be suspended, unless when in Cases of Rebellion or Invasion the public Safety may require it."
@@ -958,12 +958,12 @@
       "id": "par69",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        719.1,
-        722.58
+        719.09,
+        722.57
       ],
       "clip": [
-        719.0,
-        722.78
+        718.99,
+        722.77
       ],
       "cls": null,
       "said": "No Bill of Attainder or ex post facto Law shall be passed."
@@ -972,12 +972,12 @@
       "id": "par70",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        723.58,
-        732.81
+        723.57,
+        732.8
       ],
       "clip": [
-        723.48,
-        733.01
+        723.47,
+        733.0
       ],
       "cls": null,
       "said": "No Capitation, or other direct, Tax shall be laid, unless in Proportion to the Census or Enumeration herein before directed to be taken."
@@ -986,12 +986,12 @@
       "id": "par71",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        733.81,
-        737.81
+        733.8,
+        737.8
       ],
       "clip": [
-        733.71,
-        738.01
+        733.7,
+        738.0
       ],
       "cls": null,
       "said": "No Tax or Duty shall be laid on Articles exported from any State."
@@ -1000,12 +1000,12 @@
       "id": "par72",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        738.81,
-        752.52
+        738.8,
+        752.51
       ],
       "clip": [
-        738.71,
-        752.72
+        738.7,
+        752.71
       ],
       "cls": null,
       "said": "No Preference shall be given by any Regulation of Commerce or Revenue to the Ports of one State over those of another: nor shall Vessels bound to, or from, one State, be obliged to enter, clear, or pay Duties in another."
@@ -1014,12 +1014,12 @@
       "id": "par73",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        753.52,
-        766.43
+        753.51,
+        766.42
       ],
       "clip": [
-        753.42,
-        766.63
+        753.41,
+        766.62
       ],
       "cls": null,
       "said": "No Money shall be drawn from the Treasury, but in Consequence of Appropriations made by Law; and a regular Statement and Account of the Receipts and Expenditures of all public Money shall be published from time to time."
@@ -1028,12 +1028,12 @@
       "id": "par74",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        767.43,
-        785.18
+        767.42,
+        785.17
       ],
       "clip": [
-        767.33,
-        785.38
+        767.32,
+        785.37
       ],
       "cls": null,
       "said": "No Title of Nobility shall be granted by the United States; and no Person holding any Office of Profit or Trust under them, shall, without the Consent of the Congress, accept of any present, Emolument, Office, or Title, of any kind whatever, from any King, Prince, or foreign State."
@@ -1042,11 +1042,11 @@
       "id": "par75",
       "audio": "tts000001-0002.mp3",
       "speech": [
-        786.53,
+        786.52,
         787.34
       ],
       "clip": [
-        786.43,
+        786.42,
         787.54
       ],
       "cls": "section",
@@ -1883,11 +1883,11 @@
       "audio": "tts000001-0007.mp3",
       "speech": [
         15.32,
-        36.67
+        36.66
       ],
       "clip": [
         15.22,
-        36.87
+        36.86
       ],
       "cls": null,
       "said": "This Constitution, and the Laws of the United States which shall be made in Pursuance thereof; and all Treaties made, or which shall be made, under the Authority of the United States, shall be the supreme Law of the Land; and the Judges in every State shall be bound thereby, any Thing in the Constitution or Laws of any State to the Contrary notwithstanding."
@@ -1896,12 +1896,12 @@
       "id": "par136",
       "audio": "tts000001-0007.mp3",
       "speech": [
-        37.67,
-        61.51
+        37.66,
+        61.5
       ],
       "clip": [
-        37.57,
-        61.71
+        37.56,
+        61.7
       ],
       "cls": null,
       "said": "The Senators and Representatives before mentioned, and the Members of the several State Legislatures, and all executive and judicial Officers, both of the United States and of the several States, shall be bound by Oath or Affirmation, to support this Constitution; but no religious Test shall ever be required as a Qualification to any Office or public Trust under the United States."
@@ -1925,11 +1925,11 @@
       "audio": "tts000001-0008.mp3",
       "speech": [
         2.62,
-        11.6
+        11.59
       ],
       "clip": [
         2.52,
-        11.8
+        11.79
       ],
       "cls": null,
       "said": "The Ratification of the Conventions of nine States, shall be sufficient for the Establishment of this Constitution between the States so ratifying the Same."
@@ -1938,12 +1938,12 @@
       "id": "par139",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        12.6,
-        26.32
+        12.59,
+        26.31
       ],
       "clip": [
-        12.5,
-        26.52
+        12.49,
+        26.51
       ],
       "cls": null,
       "said": "Done in Convention by the Unanimous Consent of the States present the Seventeenth Day of September in the Year of our Lord one thousand seven hundred and eighty seven and of the Independence of the United States of America the Twelfth."
@@ -1952,12 +1952,12 @@
       "id": "par140",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        26.97,
-        30.18
+        26.96,
+        30.17
       ],
       "clip": [
-        26.87,
-        30.38
+        26.86,
+        30.37
       ],
       "cls": null,
       "said": "In Witness whereof We have hereunto subscribed our Names,"
@@ -1966,12 +1966,12 @@
       "id": "par141",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        31.18,
-        34.36
+        31.17,
+        34.35
       ],
       "clip": [
-        31.08,
-        34.56
+        31.07,
+        34.55
       ],
       "cls": null,
       "said": "George Washington, President, and deputy from Virginia"
@@ -1980,12 +1980,12 @@
       "id": "par142",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        35.36,
-        36.1
+        35.35,
+        36.09
       ],
       "clip": [
-        35.26,
-        36.3
+        35.25,
+        36.29
       ],
       "cls": null,
       "said": "New Hampshire"
@@ -1994,12 +1994,12 @@
       "id": "par143",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        37.1,
-        38.59
+        37.09,
+        38.58
       ],
       "clip": [
-        37.0,
-        38.79
+        36.99,
+        38.78
       ],
       "cls": null,
       "said": "John Langdon Nicholas Gilman"
@@ -2008,12 +2008,12 @@
       "id": "par144",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        39.59,
-        40.44
+        39.58,
+        40.43
       ],
       "clip": [
-        39.49,
-        40.64
+        39.48,
+        40.63
       ],
       "cls": null,
       "said": "Massachusetts"
@@ -2022,12 +2022,12 @@
       "id": "par145",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        41.44,
-        43.07
+        41.43,
+        43.06
       ],
       "clip": [
-        41.34,
-        43.27
+        41.33,
+        43.26
       ],
       "cls": null,
       "said": "Nathaniel Gorham Rufus King"
@@ -2036,12 +2036,12 @@
       "id": "par146",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        44.07,
-        44.75
+        44.06,
+        44.74
       ],
       "clip": [
-        43.97,
-        44.95
+        43.96,
+        44.94
       ],
       "cls": null,
       "said": "Connecticut"
@@ -2050,12 +2050,12 @@
       "id": "par147",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        45.75,
-        47.83
+        45.74,
+        47.82
       ],
       "clip": [
-        45.65,
-        48.03
+        45.64,
+        48.02
       ],
       "cls": null,
       "said": "William Samuel Johnson Roger Sherman"
@@ -2064,12 +2064,12 @@
       "id": "par148",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        48.83,
-        49.46
+        48.82,
+        49.45
       ],
       "clip": [
-        48.73,
-        49.66
+        48.72,
+        49.65
       ],
       "cls": null,
       "said": "New York"
@@ -2078,12 +2078,12 @@
       "id": "par149",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        50.46,
-        51.74
+        50.45,
+        51.73
       ],
       "clip": [
-        50.36,
-        51.94
+        50.35,
+        51.93
       ],
       "cls": null,
       "said": "Alexander Hamilton"
@@ -2092,12 +2092,12 @@
       "id": "par150",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        52.74,
-        53.43
+        52.73,
+        53.42
       ],
       "clip": [
-        52.64,
-        53.63
+        52.63,
+        53.62
       ],
       "cls": null,
       "said": "New Jersey"
@@ -2106,12 +2106,12 @@
       "id": "par151",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        54.43,
-        57.91
+        54.42,
+        57.9
       ],
       "clip": [
-        54.33,
-        58.11
+        54.32,
+        58.1
       ],
       "cls": null,
       "said": "William Livingston David Brearley William Paterson Jonathan"
@@ -2120,12 +2120,12 @@
       "id": "par152",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        58.56,
-        59.08
+        58.55,
+        59.07
       ],
       "clip": [
-        58.46,
-        59.28
+        58.45,
+        59.27
       ],
       "cls": null,
       "said": "Dayton"
@@ -2134,12 +2134,12 @@
       "id": "par153",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        60.08,
-        60.85
+        60.07,
+        60.84
       ],
       "clip": [
-        59.98,
-        61.05
+        59.97,
+        61.04
       ],
       "cls": null,
       "said": "Pennsylvania"
@@ -2148,12 +2148,12 @@
       "id": "par154",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        61.85,
-        64.78
+        61.84,
+        64.8
       ],
       "clip": [
-        61.75,
-        64.98
+        61.74,
+        65.0
       ],
       "cls": null,
       "said": "Benjamin Franklin Thomas Mifflin Robert Morris George"
@@ -2162,12 +2162,12 @@
       "id": "par155",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        65.43,
-        69.99
+        65.45,
+        70.01
       ],
       "clip": [
-        65.33,
-        70.19
+        65.35,
+        70.21
       ],
       "cls": null,
       "said": "Clymer Thomas FitzSimons Jared Ingersoll James Wilson Gouverneur Morris"
@@ -2176,12 +2176,12 @@
       "id": "par156",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        70.99,
-        71.52
+        71.01,
+        71.55
       ],
       "clip": [
-        70.89,
-        71.72
+        70.91,
+        71.75
       ],
       "cls": null,
       "said": "Delaware"
@@ -2190,12 +2190,12 @@
       "id": "par157",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        72.52,
-        76.82
+        72.55,
+        76.85
       ],
       "clip": [
-        72.42,
-        77.02
+        72.45,
+        77.05
       ],
       "cls": null,
       "said": "George Read Gunning Bedford junior John Dickinson Richard Bassett Jacob"
@@ -2204,12 +2204,12 @@
       "id": "par158",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        77.47,
-        77.94
+        77.5,
+        77.97
       ],
       "clip": [
-        77.37,
-        78.14
+        77.4,
+        78.17
       ],
       "cls": null,
       "said": "Broom"
@@ -2218,12 +2218,12 @@
       "id": "par159",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        78.94,
-        79.53
+        78.97,
+        79.56
       ],
       "clip": [
-        78.84,
-        79.73
+        78.87,
+        79.76
       ],
       "cls": null,
       "said": "Maryland"
@@ -2232,12 +2232,12 @@
       "id": "par160",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        80.53,
-        84.22
+        80.56,
+        84.25
       ],
       "clip": [
-        80.43,
-        84.42
+        80.46,
+        84.45
       ],
       "cls": null,
       "said": "James McHenry Daniel of Saint Thomas Jenifer Daniel Carroll"
@@ -2246,12 +2246,12 @@
       "id": "par161",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        85.22,
-        85.87
+        85.25,
+        85.9
       ],
       "clip": [
-        85.12,
-        86.07
+        85.15,
+        86.1
       ],
       "cls": null,
       "said": "Virginia"
@@ -2260,12 +2260,12 @@
       "id": "par162",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        86.87,
-        88.94
+        86.9,
+        88.97
       ],
       "clip": [
-        86.77,
-        89.14
+        86.8,
+        89.17
       ],
       "cls": null,
       "said": "John Blair,  James Madison Junior"
@@ -2274,12 +2274,12 @@
       "id": "par163",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        89.94,
-        90.83
+        89.97,
+        90.87
       ],
       "clip": [
-        89.84,
-        91.03
+        89.87,
+        91.07
       ],
       "cls": null,
       "said": "North Carolina"
@@ -2288,12 +2288,12 @@
       "id": "par164",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        91.83,
-        94.3
+        91.87,
+        94.34
       ],
       "clip": [
-        91.73,
-        94.5
+        91.77,
+        94.54
       ],
       "cls": null,
       "said": "William Blount Richard Dobbs Spaight Hugh Williamson"
@@ -2302,12 +2302,12 @@
       "id": "par165",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        95.3,
-        96.19
+        95.34,
+        96.23
       ],
       "clip": [
-        95.2,
-        96.39
+        95.24,
+        96.43
       ],
       "cls": null,
       "said": "South Carolina"
@@ -2316,12 +2316,12 @@
       "id": "par166",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        97.19,
-        100.94
+        97.23,
+        100.98
       ],
       "clip": [
-        97.09,
-        101.14
+        97.13,
+        101.18
       ],
       "cls": null,
       "said": "John Rutledge Charles Cotesworth Pinckney Charles Pinckney Pierce Butler"
@@ -2330,12 +2330,12 @@
       "id": "par167",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        101.94,
-        102.41
+        101.98,
+        102.45
       ],
       "clip": [
-        101.84,
-        102.61
+        101.88,
+        102.65
       ],
       "cls": null,
       "said": "Georgia"
@@ -2344,12 +2344,12 @@
       "id": "par168",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        103.41,
-        105.01
+        103.45,
+        105.04
       ],
       "clip": [
-        103.31,
-        105.21
+        103.35,
+        105.24
       ],
       "cls": null,
       "said": "William Few Abraham Baldwin"
@@ -2358,12 +2358,12 @@
       "id": "par169",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        106.01,
-        108.31
+        106.04,
+        108.34
       ],
       "clip": [
-        105.91,
-        108.51
+        105.94,
+        108.54
       ],
       "cls": null,
       "said": "Attest: William Jackson, Secretary"
@@ -2372,12 +2372,12 @@
       "id": "par170",
       "audio": "tts000001-0008.mp3",
       "speech": [
-        109.66,
-        114.34
+        109.69,
+        114.37
       ],
       "clip": [
-        109.56,
-        114.54
+        109.59,
+        114.57
       ],
       "cls": "close",
       "said": "End of The Constitution of the United States of America, 1787."
@@ -2449,7 +2449,7 @@
           "target": "par27",
           "heading": [
             22.5,
-            23.6
+            23.61
           ],
           "children": []
         },
@@ -2458,8 +2458,8 @@
           "cls": "section",
           "target": "par30",
           "heading": [
-            24.8,
-            25.89
+            24.81,
+            25.9
           ],
           "children": []
         },
@@ -2468,8 +2468,8 @@
           "cls": "section",
           "target": "par35",
           "heading": [
-            27.09,
-            28.24
+            27.1,
+            28.25
           ],
           "children": []
         },
@@ -2478,8 +2478,8 @@
           "cls": "section",
           "target": "par39",
           "heading": [
-            29.44,
-            30.61
+            29.45,
+            30.62
           ],
           "children": []
         },
@@ -2488,8 +2488,8 @@
           "cls": "section",
           "target": "par47",
           "heading": [
-            31.81,
-            32.91
+            31.82,
+            32.92
           ],
           "children": []
         },
@@ -2498,8 +2498,8 @@
           "cls": "section",
           "target": "par66",
           "heading": [
-            34.11,
-            35.24
+            34.12,
+            35.25
           ],
           "children": []
         },
@@ -2508,20 +2508,20 @@
           "cls": "section",
           "target": "par75",
           "heading": [
-            36.44,
-            37.55
+            36.45,
+            37.56
           ],
           "children": []
         }
       ]
     },
     {
-      "label": "Article Ii",
+      "label": "Article II",
       "cls": "chapter",
       "target": "par79",
       "heading": [
-        38.75,
-        39.83
+        38.76,
+        39.84
       ],
       "children": [
         {
@@ -2529,8 +2529,8 @@
           "cls": "section",
           "target": "par80",
           "heading": [
-            41.03,
-            42.1
+            41.04,
+            42.11
           ],
           "children": []
         },
@@ -2539,8 +2539,8 @@
           "cls": "section",
           "target": "par96",
           "heading": [
-            43.3,
-            44.4
+            43.31,
+            44.41
           ],
           "children": []
         },
@@ -2549,8 +2549,8 @@
           "cls": "section",
           "target": "par100",
           "heading": [
-            45.6,
-            46.72
+            45.61,
+            46.73
           ],
           "children": []
         },
@@ -2559,7 +2559,7 @@
           "cls": "section",
           "target": "par102",
           "heading": [
-            47.92,
+            47.93,
             49.03
           ],
           "children": []
@@ -2567,7 +2567,7 @@
       ]
     },
     {
-      "label": "Article Iii",
+      "label": "Article III",
       "cls": "chapter",
       "target": "par104",
       "heading": [
@@ -2608,7 +2608,7 @@
       ]
     },
     {
-      "label": "Article Iv",
+      "label": "Article IV",
       "cls": "chapter",
       "target": "par117",
       "heading": [
@@ -2652,7 +2652,7 @@
           "target": "par128",
           "heading": [
             68.65,
-            69.76
+            69.75
           ],
           "children": []
         }
@@ -2663,28 +2663,28 @@
       "cls": "chapter",
       "target": "par130",
       "heading": [
-        70.96,
-        72.16
+        70.95,
+        72.15
       ],
       "children": []
     },
     {
-      "label": "Article Vi",
+      "label": "Article VI",
       "cls": "chapter",
       "target": "par133",
       "heading": [
-        73.36,
-        74.53
+        73.35,
+        74.52
       ],
       "children": []
     },
     {
-      "label": "Article Vii",
+      "label": "Article VII",
       "cls": "chapter",
       "target": "par137",
       "heading": [
-        75.73,
-        76.9
+        75.72,
+        76.89
       ],
       "children": []
     },
@@ -2693,8 +2693,8 @@
       "cls": "close",
       "target": "par170",
       "heading": [
-        78.1,
-        83.08
+        78.09,
+        83.07
       ],
       "children": []
     }

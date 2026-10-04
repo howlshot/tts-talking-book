@@ -2,6 +2,7 @@
 from __future__ import annotations
 
 import json
+import re
 import shutil
 import time
 from datetime import date
@@ -21,6 +22,13 @@ DTD_DIR = Path(__file__).parent / "dtd"
 HEADING = (0.60, 0.90)
 SENTENCE = (0.25, 0.40)
 PARAGRAPH_END = (0.25, 0.75)
+
+
+def display_heading(heading: str) -> str:
+    """'ARTICLE III' -> 'Article III': capitalize all-caps headings but keep Roman numerals."""
+    if not heading.isupper():
+        return heading
+    return " ".join(w if re.fullmatch(r"[IVXLC]+\.?", w) else w.capitalize() for w in heading.split())
 
 
 class Builder:
@@ -56,7 +64,7 @@ class Builder:
     def narrate(self, d: Division, track: Track, audio_file: str, headings: Track) -> dtb.Nav:
         spoken = speakable_heading(d.heading)
         target = self.par(track, audio_file, f"{spoken}.", HEADING, d.cls)
-        nav = dtb.Nav(d.heading.title() if d.heading.isupper() else d.heading, d.cls, target, headings.add(self.speak(f"{spoken}."), *HEADING))
+        nav = dtb.Nav(display_heading(d.heading), d.cls, target, headings.add(self.speak(f"{spoken}."), *HEADING))
         for paragraph in d.paragraphs:
             parts = sentences(paragraph)
             for i, s in enumerate(parts):

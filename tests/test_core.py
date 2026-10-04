@@ -35,6 +35,12 @@ class Text(unittest.TestCase):
         self.assertEqual([c.heading for c in divs[1].children], ["Section 1", "Section 2"])
         self.assertEqual(divs[1].children[0].paragraphs, ["All powers.", "More text."])
 
+    def test_display_headings_keep_roman_numerals(self):
+        from talkingbook.build import display_heading
+
+        self.assertEqual(display_heading("ARTICLE III"), "Article III")
+        self.assertEqual(display_heading("Section 2"), "Section 2")
+
     def test_spoken_headings_avoid_roman_numerals(self):
         self.assertEqual(speakable_heading("Article IV"), "Article 4")
         self.assertEqual(speakable_heading("Section 2"), "Section 2")
