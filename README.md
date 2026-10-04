@@ -19,7 +19,7 @@ The U.S. Constitution (public domain, from Project Gutenberg), built in under 5 
 | Synchronization | 170 SMIL clips |
 | Speed | 8.4× faster than real time, CPU only (Apple M5 Max) |
 | Checks | 30 of 30 pass |
-| Clip timing | 203 of 203 clips within the Spec 1203 windows, measured from the audio |
+| Clip timing | All 203 clips (170 in the book, 33 heading labels) within the Spec 1203 windows, measured from the audio |
 | Loudness | -18.1 to -18.4 LUFS on every file (EBU R128) |
 | Intelligibility | 1.4% word error rate when the audio is transcribed back |
 
